@@ -6,6 +6,10 @@ import tailwindcss from "@tailwindcss/vite";
 
 const { VITE_LOG_BUILD_WARNINGS } = process.env;
 
+// Remove NODE_ENV from process.env before Vite reads it to avoid
+// "NODE_ENV=production is not supported in the .env file" errors.
+delete process.env.NODE_ENV;
+
 export default defineConfig({
     plugins: [
         tailwindcss(),
