@@ -6,6 +6,10 @@ import tailwindcss from "@tailwindcss/vite";
 
 const { VITE_LOG_BUILD_WARNINGS } = process.env;
 
+// Remove NODE_ENV from process.env before Vite reads it to avoid
+// "NODE_ENV=production is not supported in the .env file" errors.
+delete process.env.NODE_ENV;
+
 export default defineConfig({
     plugins: [
         tailwindcss(),
@@ -54,8 +58,11 @@ export default defineConfig({
             buildStart() {
                 // Generate a random build number and save it to the storage/frontend/build.num file
                 // This is used to prevent caching of the build none packed with vite like dark theme css file.
-                
-                fs.writeFileSync('./storage/frontend/build.num', Math.floor(Math.random() * 1000000).toString());
+                const dir = './storage/frontend';
+                if (!fs.existsSync(dir)) {
+                    fs.mkdirSync(dir, { recursive: true });
+                }
+                fs.writeFileSync(`${dir}/build.num`, Math.floor(Math.random() * 1000000).toString());
             }
         }
     ],
