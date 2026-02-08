@@ -1,0 +1,1 @@
+import{_ as s,d as t,c as o,j as n,f as a,n as r,o as c}from"./global.properties-ieI6Xwik.js";const d=t({props:{width:{type:String,default:"w-content"}}}),i={class:"block"};function l(e,p,f,_,m,u){return c(),o("div",i,[n("div",{class:r(e.width)},[a(e.$slots,"default")],2)])}const $=s(d,[["render",l]]);export{$ as C};

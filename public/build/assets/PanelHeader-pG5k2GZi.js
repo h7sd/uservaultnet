@@ -1,0 +1,1 @@
+import{_ as t,d as s,c as o,o as r,j as n,t as a}from"./global.properties-ieI6Xwik.js";const c=s({props:{title:{type:String,required:!0}}}),p={class:"block py-4 px-3"},i={class:"text-par-n font-semibold text-lab-pr2 text-center"};function d(e,l,_,f,m,x){return r(),o("div",p,[n("h3",i,a(e.title),1)])}const h=t(c,[["render",d]]);export{h as P};

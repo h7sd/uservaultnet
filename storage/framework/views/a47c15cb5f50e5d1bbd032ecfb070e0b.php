@@ -1,0 +1,1 @@
+<?php echo e($requestData); ?><?php /**PATH /var/www/www.uservault.net/resources/views/apps/mpa/admin/authorship/show/index.blade.php ENDPATH**/ ?>

