@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>USER VAULT</title>
+</head>
+<body>
+    <div id="colibriplus-desktop-app"></div>
+
+    <script>
+        // Mock BackendEmbeds that would normally be injected by Laravel's Blade template
+        window.BackendEmbeds = {
+            assets: {
+                images: {
+                    upload_avatar: '/assets/avatars/upload-avatar.png',
+                    bio_avatar: '/assets/avatars/bio-avatar.png'
+                },
+                logos: {
+                    url: '/assets/logo.png'
+                },
+                emojis: {
+                    animated: false
+                }
+            },
+            translation_service: {
+                name: 'LibreTranslate Self-Hosted',
+                url: 'https://libretranslate.org',
+                logo_url: '/assets/services/libretranslate-logo.png'
+            },
+            routes: {
+                business_dashboard_index: '/business',
+                user_auth_index: '/auth',
+                terms_of_use: '/terms',
+                privacy_policy: '/privacy',
+                cookies_policy: '/cookies',
+                api_developers: '/developers',
+                help_center: '/help',
+                user_linker_index: '/linker',
+                verification_rules: '/verification',
+                become_author: '/author'
+            },
+            sharing: {
+                stories: true
+            },
+            links: {
+                assets_url: '/',
+                base_url: '/',
+                assets: {
+                    emoji: '/assets/emoji/img-apple-64/'
+                },
+                guide_links: {
+                    publication_rules: '/documents/publication-rules.pdf'
+                }
+            },
+            locale: 'en',
+            locale_name: 'English',
+            available_locales: [{ code: 'en', name: 'English' }],
+            theme: 'light',
+            config: {
+                features: {
+                    jobs: { enabled: true },
+                    marketplace: { enabled: true },
+                    wallet: { enabled: true }
+                },
+                app: {
+                    name: 'USER VAULT',
+                    currency: { code: 'USD', symbol: '$' }
+                },
+                verification: {
+                    service_url: '#'
+                },
+                validation: {
+                    user: {
+                        bio: { min: 0, max: 150 }
+                    }
+                },
+                chat: {
+                    group: {
+                        invite_expire_days: 7
+                    }
+                },
+                user: {
+                    default_avatar: '/assets/avatars/default-avatar.png'
+                },
+                wallet: {
+                    name: 'Wallet',
+                    about_link: '#',
+                    deposit: { max_amount: 1000, min_amount: 1, commission: 0 },
+                    transfer: { max_amount: 500, min_amount: 1, commission: 0 },
+                    withdraw: { max_amount: 500, min_amount: 1, commission: 0 }
+                },
+                sounds: {
+                    chat: {
+                        active_chat_message_received: '/sounds/chat-received.mp3',
+                        chat_message_sent: '/sounds/chat-sent.mp3',
+                        background_chat_message_received: '/sounds/chat-bg.mp3'
+                    },
+                    notification: {
+                        received: '/sounds/notification.mp3',
+                        ui_feedback: '/sounds/ui-feedback.mp3'
+                    }
+                }
+            },
+            contacts: {
+                support_email: 'support@uservault.net',
+                support_phone: '+4915150755651',
+                address: 'Maler Lochbiehler Strasse 18 87435 Kempten Germany'
+            }
+        };
+    </script>
+
+    <script type="module" src="/resources/js/spa/apps/desktop/bootstrap/application.js"></script>
+</body>
+</html>

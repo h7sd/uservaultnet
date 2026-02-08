@@ -1,5 +1,4 @@
 import { defineConfig } from 'vite';
-import laravel from 'laravel-vite-plugin';
 import vue from '@vitejs/plugin-vue';
 import fs from 'fs';
 import tailwindcss from "@tailwindcss/vite";
@@ -10,17 +9,32 @@ const { VITE_LOG_BUILD_WARNINGS } = process.env;
 // "NODE_ENV=production is not supported in the .env file" errors.
 delete process.env.NODE_ENV;
 
-export default defineConfig({
-    plugins: [
-        tailwindcss(),
-        vue({
-            template: {
-                compilerOptions: {
-                    isCustomElement: tag => tag.startsWith('swiper-')
-                }
+// Detect if we're running in standalone mode (no Laravel backend / v0 preview)
+// by checking if laravel-vite-plugin is available.
+let laravelPlugin = null;
+try {
+    const laravel = await import('laravel-vite-plugin');
+    laravelPlugin = laravel.default;
+} catch (e) {
+    // laravel-vite-plugin not available, running in standalone mode
+}
+
+const isStandalone = !laravelPlugin || process.env.VITE_STANDALONE === 'true';
+
+const plugins = [
+    tailwindcss(),
+    vue({
+        template: {
+            compilerOptions: {
+                isCustomElement: tag => tag.startsWith('swiper-')
             }
-        }),
-        laravel({
+        }
+    }),
+];
+
+if (!isStandalone && laravelPlugin) {
+    plugins.push(
+        laravelPlugin({
             input: [
                 'resources/js/spa/apps/desktop/bootstrap/application.js',
                 'resources/js/spa/apps/mobile/bootstrap/application.js',
@@ -28,7 +42,6 @@ export default defineConfig({
                 // Business CSS/JS files
                 'resources/css/business/main.css',
                 'resources/js/business/main.js',
-
 
                 // Desktop CSS files
                 'resources/css/spa/apps/desktop/main.css',
@@ -38,8 +51,7 @@ export default defineConfig({
 
                 'resources/fonts/sf-pro/stylesheet.css',
                 'resources/fonts/sf-mono/stylesheet.css',
-                
-                
+
                 // Document CSS
                 'resources/css/document/main.css',
                 'resources/js/document/main.js',
@@ -52,20 +64,25 @@ export default defineConfig({
                 'resources/css/mpa/rich.editor.css'
             ],
             refresh: true
-        }),
-        {
-            name: 'build-number',
-            buildStart() {
-                // Generate a random build number and save it to the storage/frontend/build.num file
-                // This is used to prevent caching of the build none packed with vite like dark theme css file.
-                const dir = './storage/frontend';
-                if (!fs.existsSync(dir)) {
-                    fs.mkdirSync(dir, { recursive: true });
-                }
-                fs.writeFileSync(`${dir}/build.num`, Math.floor(Math.random() * 1000000).toString());
-            }
+        })
+    );
+}
+
+plugins.push({
+    name: 'build-number',
+    buildStart() {
+        // Generate a random build number and save it to the storage/frontend/build.num file
+        // This is used to prevent caching of the build none packed with vite like dark theme css file.
+        const dir = './storage/frontend';
+        if (!fs.existsSync(dir)) {
+            fs.mkdirSync(dir, { recursive: true });
         }
-    ],
+        fs.writeFileSync(`${dir}/build.num`, Math.floor(Math.random() * 1000000).toString());
+    }
+});
+
+export default defineConfig({
+    plugins,
     resolve: {
         alias: {
             '@': '/resources/js/spa',
@@ -83,9 +100,13 @@ export default defineConfig({
             overlay: false,
         }
     },
+    css: {
+        // Include resources directory for CSS @import resolution
+        preprocessorOptions: {}
+    },
     esbuild: {
         supported: {
-            'top-level-await': true //browsers can handle top-level-await features
+            'top-level-await': true
         }
     },
     build: {
