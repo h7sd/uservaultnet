@@ -1,18 +1,14 @@
-import { defineConfig, loadEnv } from 'vite';
+import { defineConfig } from 'vite';
 import laravel from 'laravel-vite-plugin';
 import vue from '@vitejs/plugin-vue';
 import fs from 'fs';
 import tailwindcss from "@tailwindcss/vite";
 
 export default defineConfig(({ mode }) => {
-    // Load env file but explicitly exclude NODE_ENV
-    const env = loadEnv(mode, process.cwd(), '');
-    delete env.NODE_ENV;
-    delete process.env.NODE_ENV;
-    
-    const { VITE_LOG_BUILD_WARNINGS } = env;
+    const { VITE_LOG_BUILD_WARNINGS } = process.env;
 
     return {
+    envPrefix: ['VITE_', 'APP_'],
     plugins: [
         tailwindcss(),
         vue({
