@@ -91,7 +91,14 @@ export default defineConfig(({ mode }) => {
         }
     },
     optimizeDeps: {
-        include: ['vue', 'axios']
+        include: ['vue', 'axios'],
+        entries: [
+            'resources/js/spa/apps/desktop/bootstrap/application.js',
+            'resources/js/spa/apps/mobile/bootstrap/application.js',
+            'resources/js/business/main.js',
+            'resources/js/document/main.js',
+            'resources/js/admin/main.js'
+        ]
     },
     build: {
         rollupOptions: {
