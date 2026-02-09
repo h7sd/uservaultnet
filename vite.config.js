@@ -90,6 +90,9 @@ export default defineConfig(({ mode }) => {
             'top-level-await': true //browsers can handle top-level-await features
         }
     },
+    optimizeDeps: {
+        include: ['vue', 'axios']
+    },
     build: {
         rollupOptions: {
             onwarn: function(warning, warn) {
