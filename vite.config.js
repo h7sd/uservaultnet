@@ -1,3 +1,7 @@
+// Remove NODE_ENV from process.env BEFORE any imports to avoid
+// "NODE_ENV=production is not supported in the .env file" errors.
+delete process.env.NODE_ENV;
+
 import { defineConfig } from 'vite';
 import laravel from 'laravel-vite-plugin';
 import vue from '@vitejs/plugin-vue';
@@ -6,11 +10,9 @@ import tailwindcss from "@tailwindcss/vite";
 
 const { VITE_LOG_BUILD_WARNINGS } = process.env;
 
-// Remove NODE_ENV from process.env before Vite reads it to avoid
-// "NODE_ENV=production is not supported in the .env file" errors.
-delete process.env.NODE_ENV;
-
 export default defineConfig({
+    // Prevent Vite from loading NODE_ENV from .env files
+    envPrefix: ['VITE_', 'APP_'],
     plugins: [
         tailwindcss(),
         vue({
