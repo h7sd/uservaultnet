@@ -15,7 +15,7 @@ return [
     |
     */
 
-    'default' => env('BROADCAST_CONNECTION', 'reverb'),
+    'default' => env('BROADCAST_CONNECTION', 'log'),
 
     /*
     |--------------------------------------------------------------------------
@@ -31,11 +31,11 @@ return [
     'connections' => [
         'reverb' => [
             'driver' => 'reverb',
-            'key' => env('REVERB_APP_KEY'),
-            'secret' => env('REVERB_APP_SECRET'),
-            'app_id' => env('REVERB_APP_ID'),
+            'key' => env('REVERB_APP_KEY', 'default'),
+            'secret' => env('REVERB_APP_SECRET', 'default'),
+            'app_id' => env('REVERB_APP_ID', 'default'),
             'options' => [
-                'host' => env('REVERB_HOST'),
+                'host' => env('REVERB_HOST', 'localhost'),
                 'port' => env('REVERB_PORT', 443),
                 'scheme' => env('REVERB_SCHEME', 'https'),
                 'useTLS' => env('REVERB_SCHEME', 'https') === 'https',
