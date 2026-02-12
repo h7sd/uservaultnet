@@ -1,1 +1,0 @@
-import{_ as r,c as o,o as s,j as t}from"./global.properties-ieI6Xwik.js";import"./_commonjsHelpers-Cpj98o6Y.js";const a={},l={class:"size-full flex-center absolute inset-0 backdrop-blur-xs cursor-not-allowed"};function c(n,e){return s(),o("div",l,e[0]||(e[0]=[t("div",{class:"colibri-primary-animation"},null,-1)]))}const u=r(a,[["render",c]]);export{u as default};

@@ -1,1 +1,0 @@
-import{_ as t,d as o,c as s,o as n,j as r,t as a}from"./global.properties-ieI6Xwik.js";const c=o({props:{labelText:{type:String,required:!0}}}),l={class:"inline-block leading-none px-2.5 pt-1 pb-1.5 rounded-full bg-fill-tr"},i={class:"text-cap-l text-red-900"};function p(e,d,_,f,u,x){return n(),s("div",l,[r("span",i,a(e.labelText),1)])}const g=t(c,[["render",p]]);export{g as J};

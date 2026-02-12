@@ -33,7 +33,7 @@
 			@endif
 
 			<div class="mb-4">
-				<div id="rich-editor" class="text-lab-pr2" style="height: 500px;">
+				<div id="rich-editor" style="height: 500px;">
 					{!! $pageContent !!}
 				</div>
 			</div>

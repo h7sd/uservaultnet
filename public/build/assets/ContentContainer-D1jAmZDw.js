@@ -1,0 +1,1 @@
+import{_ as s}from"./global.properties-DKM1fd6s.js";import{k as t,c as o,s as n,h as a,j as r,d as c}from"./vendor-20TtR0Rd.js";const d=t({props:{width:{type:String,default:"w-content"}}}),i={class:"block"};function p(e,l,f,_,m,h){return c(),o("div",i,[n("div",{class:r(e.width)},[a(e.$slots,"default")],2)])}const $=s(d,[["render",p]]);export{$ as C};

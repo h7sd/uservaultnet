@@ -39,7 +39,7 @@ class ForgotForm extends Component
             'code' => $confirmationCode, // Code in DB speichern
         ]);
 
-        Mail::to($this->emailAddress)->queue(new PasswordResetCodeMail([
+        Mail::to($this->emailAddress)->send(new PasswordResetCodeMail([
             'name' => $userData->name,
             'title' => 'Reset Your Password',
             'subTitle' => 'Your Password Reset Code',

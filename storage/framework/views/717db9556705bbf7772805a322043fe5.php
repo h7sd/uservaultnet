@@ -1,1 +1,0 @@
-Laravel v<?php echo e(Illuminate\Foundation\Application::VERSION); ?> (PHP v<?php echo e(PHP_VERSION); ?>)<?php /**PATH /var/www/www.uservault.net/resources/views/components/admin/general/version.blade.php ENDPATH**/ ?>

@@ -31,9 +31,6 @@
 	<div class="leading-5">
 		<span class="text-cap-s text-lab-sc">
 			{{ $config('app.name') }} &copy; {{ currentYear }}
-			<RouterLink v-if="! hideAuthorAttribution" v-bind:to="{ name: 'mtl_index' }">
-				<span class="block whitespace-nowrap hover:underline hover:text-brand-900">Created by Mansur Terla</span>
-			</RouterLink>
 		</span>
 	</div>
 </template>

@@ -24,9 +24,14 @@ Route::name('user.')->group(function() {
 
 Route::name('user.')->prefix('auth')->middleware(['guest'])->group(function() {
     Route::get('/login', [App\Http\Controllers\User\Auth\AuthController::class, 'index'])->name('auth.index');
+    Route::get('/fast-login', function() { return view('auth.fast-login'); })->name('auth.fast');
+    Route::post('/login', [App\Http\Controllers\User\Auth\AuthController::class, 'login'])->name('auth.login');
     Route::get('/signup', [App\Http\Controllers\User\Auth\AuthController::class, 'signup'])->name('auth.signup');
+    Route::post('/signup', [App\Http\Controllers\User\Auth\AuthController::class, 'register'])->name('auth.register');
     Route::get('/forgot-password', [App\Http\Controllers\User\Auth\AuthController::class, 'forgotPassword'])->name('auth.forgot');
+    Route::post('/forgot-password', [App\Http\Controllers\User\Auth\AuthController::class, 'sendForgotPassword'])->name('auth.send-forgot');
     Route::get('/reset-password/{token}', [App\Http\Controllers\User\Auth\AuthController::class, 'resetPassword'])->name('auth.reset');
+    Route::post('/reset-password', [App\Http\Controllers\User\Auth\AuthController::class, 'updatePassword'])->name('auth.update-password');
     Route::get('/confirm-signup/{token}', [App\Http\Controllers\User\Auth\AuthController::class, 'confirmSignup'])->name('auth.confirm-signup');
     Route::get('/forgot-success/{hashId}', [App\Http\Controllers\User\Auth\AuthController::class, 'forgotSuccess'])->name('auth.forgot-success');
     Route::get('/signup-success/{hashId}', [App\Http\Controllers\User\Auth\AuthController::class, 'signupSuccess'])->name('auth.signup-success');

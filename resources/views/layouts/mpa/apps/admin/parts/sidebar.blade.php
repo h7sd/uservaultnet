@@ -254,9 +254,7 @@
                     {{ __('links.cookies_policy') }}
                 </x-sidebar.link>
 
-                @unless(config('app.hide_author_attribution'))
-                    <x-sidebar.link href="https://www.terla.me" target="_blank">Created by Mansur Terla</x-sidebar.link>
-                @endunless
+
 			</div>
 		</div>
     </x-sidebar.navbar>

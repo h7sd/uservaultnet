@@ -1,20 +1,34 @@
 <div>
-    <form method="POST" wire:submit.prevent="submitForm">
-        <div class="mb-16">
-            <div class="mb-4">
-                <x-auth.parts.form-header title="{{ __('auth.signup_success_message.title') }}">
-                    <x-slot:icon>
-                        <x-ui-icon name="mail-01" type="line"></x-ui-icon>
-                    </x-slot:icon>
-                    <x-slot:caption>
-                        {{ __('auth.signup_success_message.caption', ['email_address' => $confirmationData->email]) }}
-                    </x-slot:caption>
-                </x-auth.parts.form-header>
-            </div>
-            
-            <x-div></x-div>
+    <div class="mb-16">
+        <div class="mb-4">
+            <x-auth.parts.form-header title="{{ __('auth.signup_success_message.title') }}">
+                <x-slot:icon>
+                    <x-ui-icon name="mail-01" type="line"></x-ui-icon>
+                </x-slot:icon>
+                <x-slot:caption>
+                    {{ __('auth.signup_success_message.caption', ['email_address' => $confirmationData->email]) }}
+                </x-slot:caption>
+            </x-auth.parts.form-header>
         </div>
         
+        <x-div></x-div>
+    </div>
+    
+    <form method="POST" wire:submit.prevent="verifyCode">
+        <div class="mb-3">
+            <x-form.text-input 
+                wire:model="code" 
+                name="code" 
+                placeholder="Enter 6-digit code"
+            />
+        </div>
+
+        <div class="mb-6">
+            <x-ui.buttons.pill width="w-full" wire:loading.attr="disabled" type="submit" btnText="Verify Code"></x-ui.buttons.pill>
+        </div>
+    </form>
+
+    <form method="POST" wire:submit.prevent="submitForm">
         <div class="block">
             @if($emailResent)
                 <div class="mb-2">

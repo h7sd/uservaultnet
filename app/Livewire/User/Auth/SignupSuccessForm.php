@@ -11,6 +11,7 @@ class SignupSuccessForm extends Component
     public $confirmationData;
     public $emailResent;
     public $emailResendTimeout;
+    public $code;
 
     public function mount()
     {
@@ -22,6 +23,19 @@ class SignupSuccessForm extends Component
         return view('livewire.user.auth.signup-success-form');
     }
 
+    public function verifyCode()
+    {
+        $this->validate([
+            'code' => 'required|string|size:6',
+        ]);
+
+        if($this->confirmationData && $this->confirmationData->code === $this->code) {
+            return redirect()->route('user.auth.confirm-signup', ['token' => $this->confirmationData->token]);
+        }
+
+        $this->addError('code', 'Invalid verification code.');
+    }
+
     public function submitForm()
     {
         if($this->confirmationData) {
@@ -30,7 +44,7 @@ class SignupSuccessForm extends Component
                 $confirmationCode = (string) rand(100000, 999999);
                 $this->confirmationData->update(['code' => $confirmationCode]);
 
-                Mail::to($this->confirmationData->email)->queue(new RegistrationCodeMail([
+                Mail::to($this->confirmationData->email)->send(new RegistrationCodeMail([
                     'title' => 'Verify Your Email Address',
                     'subTitle' => 'Your Verification Code',
                     'description' => 'Please use the following code to complete your registration:',

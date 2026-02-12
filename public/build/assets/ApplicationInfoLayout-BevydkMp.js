@@ -1,1 +1,0 @@
-import{_ as e,e as t,r as n,o as r}from"./global.properties-ieI6Xwik.js";import"./_commonjsHelpers-Cpj98o6Y.js";const c={};function s(a,_){const o=n("RouterView");return r(),t(o)}const f=e(c,[["render",s]]);export{f as default};

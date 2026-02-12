@@ -12,8 +12,13 @@ return new class extends Migration
      */
     public function up(): void
     {
-        Schema::table(Table::EMAIL_CONF, function (Blueprint $table) {
-            $table->string('code', 6)->nullable()->after('token');
+        Schema::create(Table::EMAIL_CONF, function (Blueprint $table) {
+            $table->id();
+            $table->string('email');
+            $table->string('token');
+            $table->string('code', 6)->nullable();
+            $table->timestamp('expires_at')->nullable();
+            $table->timestamps();
         });
     }
 
@@ -22,8 +27,6 @@ return new class extends Migration
      */
     public function down(): void
     {
-        Schema::table(Table::EMAIL_CONF, function (Blueprint $table) {
-            $table->dropColumn('code');
-        });
+        Schema::dropIfExists(Table::EMAIL_CONF);
     }
 };

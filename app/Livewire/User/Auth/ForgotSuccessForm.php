@@ -12,6 +12,7 @@ class ForgotSuccessForm extends Component
     public $confirmationData;
     public $emailResent;
     public $emailResendTimeout;
+    public $code;
 
     public function mount()
     {
@@ -21,6 +22,19 @@ class ForgotSuccessForm extends Component
     public function render()
     {
         return view('livewire.user.auth.forgot-success-form');
+    }
+
+    public function verifyCode()
+    {
+        $this->validate([
+            'code' => 'required|string|size:6',
+        ]);
+
+        if($this->confirmationData && $this->confirmationData->code === $this->code) {
+            return redirect()->route('user.auth.reset', ['token' => $this->confirmationData->token]);
+        }
+
+        $this->addError('code', 'Invalid verification code.');
     }
 
     public function submitForm()
@@ -33,7 +47,7 @@ class ForgotSuccessForm extends Component
                 $confirmationCode = (string) rand(100000, 999999);
                 $this->confirmationData->update(['code' => $confirmationCode]);
 
-                Mail::to($this->confirmationData->email)->queue(new PasswordResetCodeMail([
+                Mail::to($this->confirmationData->email)->send(new PasswordResetCodeMail([
                     'name' => $userData->name,
                     'title' => 'Reset Your Password',
                     'subTitle' => 'Your Password Reset Code',

@@ -1,1 +1,0 @@
-import{_ as e,d as o,c as r,o as s,t as n}from"./global.properties-ieI6Xwik.js";const a=o({props:{title:{type:[String,Number],required:!0}}}),p={class:"text-par-l font-semibold text-lab-pr"};function c(t,i,l,_,d,f){return s(),r("h5",p,n(t.title),1)}const u=e(a,[["render",c]]);export{u as S};

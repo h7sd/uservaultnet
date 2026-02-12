@@ -67,12 +67,12 @@ export default defineConfig({
         }
     },
     server: {
-        port: 5173,
+        port: 5174,
         strictPort: true,
         host: '0.0.0.0',
         hmr: {
             host: 'localhost',
-            port: 5173,
+            port: 5174,
             overlay: false,
         }
     },
@@ -83,6 +83,14 @@ export default defineConfig({
     },
     build: {
         rollupOptions: {
+            output: {
+                manualChunks: {
+                    'vendor': ['vue', 'vue-router', 'pinia', 'axios'],
+                    'ui': ['primevue', 'apexcharts'],
+                    'editor': ['quill', 'markdown-it'],
+                    'media': ['howler', 'recordrtc']
+                }
+            },
             onwarn: function(warning, warn) {
                 if (VITE_LOG_BUILD_WARNINGS) {
                     const today = new Date().toISOString().slice(0, 10);

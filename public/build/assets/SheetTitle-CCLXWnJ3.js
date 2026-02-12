@@ -1,0 +1,1 @@
+import{_ as e}from"./global.properties-DKM1fd6s.js";import{k as o,c as r,d as s,t as n}from"./vendor-20TtR0Rd.js";const p=o({props:{title:{type:[String,Number],required:!0}}}),a={class:"text-par-l font-semibold text-lab-pr"};function i(t,c,l,_,m,d){return s(),r("h5",a,n(t.title),1)}const h=e(p,[["render",i]]);export{h as S};

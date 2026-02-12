@@ -1,1 +1,0 @@
-import{_ as r,d as n,t as o,b as a}from"./global.properties-ieI6Xwik.js";import"./_commonjsHelpers-Cpj98o6Y.js";const s=n({props:{timestamp:{type:String,required:!0}},setup:function(t){return{date:a(()=>new Date(t.timestamp).toLocaleString())}}});function p(t,e,i,c,d,m){return o(t.date)}const _=r(s,[["render",p]]);export{_ as default};

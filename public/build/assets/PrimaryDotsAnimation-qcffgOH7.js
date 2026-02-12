@@ -1,1 +1,0 @@
-import{_ as o,c as r,o as t}from"./global.properties-ieI6Xwik.js";import"./_commonjsHelpers-Cpj98o6Y.js";const c={},e={class:"colibri-primary-animation"};function n(a,i){return t(),r("div",e)}const m=o(c,[["render",n]]);export{m as default};

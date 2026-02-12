@@ -1,0 +1,1 @@
+import{_ as e}from"./global.properties-DKM1fd6s.js";import{p as t,e as r,d as n}from"./vendor-20TtR0Rd.js";import"./editor-CpZ7vO5P.js";import"./media-D4ZD3EDk.js";const c={};function p(s,a){const o=r("RouterView");return n(),t(o)}const u=e(c,[["render",p]]);export{u as default};

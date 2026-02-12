@@ -320,3 +320,7 @@ Route::prefix('system')->middleware(['throttle:60,1'])->group(base_path('routes/
 Route::prefix('ads')->middleware(['throttle:60,1'])->group(base_path('routes/api/ads/ad.php'));
 
 Route::prefix('tips')->middleware(['auth:sanctum', 'throttle:60,1'])->group(base_path('routes/api/user/tips.php'));
+
+Route::prefix('streams')->middleware(['throttle:240,1'])->group(base_path('routes/api/user/streams.php'));
+
+Route::prefix('webhooks')->middleware(['throttle:120,1'])->group(base_path('routes/api/webhooks.php'));

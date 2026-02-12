@@ -54,7 +54,7 @@ class SignupForm extends Component
         ]);
 
         // E-Mail mit Code senden
-        \Illuminate\Support\Facades\Mail::to($this->emailAddress)->queue(
+        \Illuminate\Support\Facades\Mail::to($this->emailAddress)->send(
             new \App\Mail\User\Auth\RegistrationCodeMail([
                 'title' => 'Verify Your Email Address',
                 'subTitle' => 'Your Verification Code',

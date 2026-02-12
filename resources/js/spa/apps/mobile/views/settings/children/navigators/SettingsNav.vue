@@ -71,7 +71,7 @@
 
 			<div class="leading-5">
 				<span class="text-par-s text-lab-tr">
-					{{ $config('app.name') }} &copy; {{ currentYear }} - <a href="https://www.terla.me" target="_blank" class="underline">Created by Mansur Terla</a>
+					{{ $config('app.name') }} &copy; {{ currentYear }}
 				</span>
 			</div>
 		</div>

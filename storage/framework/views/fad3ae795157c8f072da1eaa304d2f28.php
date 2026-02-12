@@ -1,2 +1,0 @@
-
-<img <?php echo e($attributes); ?> onerror="this.onerror=null; this.src='<?php echo e(asset(config('user.avatar'))); ?>';"><?php /**PATH /var/www/www.uservault.net/resources/views/components/general/avatars/img.blade.php ENDPATH**/ ?>

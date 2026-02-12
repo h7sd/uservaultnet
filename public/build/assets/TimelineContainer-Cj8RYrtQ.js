@@ -1,1 +1,0 @@
-import{_ as o,c as s,o as c,f as n}from"./global.properties-ieI6Xwik.js";const t={},r={class:"block"};function a(e,_){return c(),s("div",r,[n(e.$slots,"default")])}const i=o(t,[["render",a]]);export{i as T};

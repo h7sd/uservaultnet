@@ -1,0 +1,1 @@
+import{Q as o}from"./editor-CpZ7vO5P.js";window.addEventListener("load",()=>{const e=document.getElementById("rich-editor-content");if(e){const t=new o("#rich-editor",{theme:"snow",height:500});t.on("text-change",(n,i,r)=>{e.value=t.root.innerHTML})}});

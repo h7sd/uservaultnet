@@ -402,6 +402,29 @@ const Router = createRouter({
             name: 'live_index'
 		},
         {
+			path: '/stream/:id',
+            component: function() {
+                return import('@D/views/live/StreamView.vue');
+            },
+            meta: {
+                layout: Layouts.MAIN,
+                auth: true
+            },
+            name: 'stream_view',
+            props: true
+		},
+        {
+			path: '/stream-dashboard',
+            component: function() {
+                return import('@D/views/live/StreamDashboard.vue');
+            },
+            meta: {
+                layout: Layouts.MAIN,
+                auth: true
+            },
+            name: 'stream_dashboard'
+		},
+        {
 			path: '/explore',
             name: 'explore_index',
 			component: function() {

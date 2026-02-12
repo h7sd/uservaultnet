@@ -1,0 +1,1 @@
+import{_ as o}from"./global.properties-DKM1fd6s.js";import{c as r,d as s,h as t}from"./vendor-20TtR0Rd.js";const c={},n={class:"block"};function a(e,_){return s(),r("div",n,[t(e.$slots,"default")])}const d=o(c,[["render",a]]);export{d as T};

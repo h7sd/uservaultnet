@@ -1,0 +1,1 @@
+import{_ as t}from"./global.properties-DKM1fd6s.js";import{k as s,c as o,d as r,s as n,t as a}from"./vendor-20TtR0Rd.js";const c=s({props:{title:{type:String,required:!0}}}),p={class:"block py-4 px-3"},i={class:"text-par-n font-semibold text-lab-pr2 text-center"};function d(e,l,_,f,m,x){return r(),o("div",p,[n("h3",i,a(e.title),1)])}const k=t(c,[["render",d]]);export{k as P};

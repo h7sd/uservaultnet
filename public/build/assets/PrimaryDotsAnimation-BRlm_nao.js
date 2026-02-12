@@ -1,0 +1,1 @@
+import{_ as o}from"./global.properties-DKM1fd6s.js";import{c as r,d as t}from"./vendor-20TtR0Rd.js";import"./editor-CpZ7vO5P.js";import"./media-D4ZD3EDk.js";const c={},i={class:"colibri-primary-animation"};function e(n,a){return t(),r("div",i)}const f=o(c,[["render",e]]);export{f as default};
